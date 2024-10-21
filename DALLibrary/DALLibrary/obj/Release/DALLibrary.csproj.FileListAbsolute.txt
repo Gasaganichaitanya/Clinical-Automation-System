@@ -1,0 +1,14 @@
+C:\Users\gasag\OneDrive\Desktop\RLL\DALLibrary\DALLibrary\DALLibrary\bin\Release\DALLibrary.dll.config
+C:\Users\gasag\OneDrive\Desktop\RLL\DALLibrary\DALLibrary\DALLibrary\bin\Release\DALLibrary.dll
+C:\Users\gasag\OneDrive\Desktop\RLL\DALLibrary\DALLibrary\DALLibrary\bin\Release\DALLibrary.pdb
+C:\Users\gasag\OneDrive\Desktop\RLL\DALLibrary\DALLibrary\DALLibrary\bin\Release\EntityFramework.dll
+C:\Users\gasag\OneDrive\Desktop\RLL\DALLibrary\DALLibrary\DALLibrary\bin\Release\EntityFramework.SqlServer.dll
+C:\Users\gasag\OneDrive\Desktop\RLL\DALLibrary\DALLibrary\DALLibrary\bin\Release\EntityFramework.xml
+C:\Users\gasag\OneDrive\Desktop\RLL\DALLibrary\DALLibrary\DALLibrary\bin\Release\EntityFramework.SqlServer.xml
+C:\Users\gasag\OneDrive\Desktop\RLL\DALLibrary\DALLibrary\DALLibrary\obj\Release\DALLibrary.csproj.AssemblyReference.cache
+C:\Users\gasag\OneDrive\Desktop\RLL\DALLibrary\DALLibrary\DALLibrary\obj\Release\DALLibrary.Migrations.firstmig.resources
+C:\Users\gasag\OneDrive\Desktop\RLL\DALLibrary\DALLibrary\DALLibrary\obj\Release\DALLibrary.csproj.GenerateResource.cache
+C:\Users\gasag\OneDrive\Desktop\RLL\DALLibrary\DALLibrary\DALLibrary\obj\Release\DALLibrary.csproj.CoreCompileInputs.cache
+C:\Users\gasag\OneDrive\Desktop\RLL\DALLibrary\DALLibrary\DALLibrary\obj\Release\DALLibrary.csproj.CopyComplete
+C:\Users\gasag\OneDrive\Desktop\RLL\DALLibrary\DALLibrary\DALLibrary\obj\Release\DALLibrary.dll
+C:\Users\gasag\OneDrive\Desktop\RLL\DALLibrary\DALLibrary\DALLibrary\obj\Release\DALLibrary.pdb

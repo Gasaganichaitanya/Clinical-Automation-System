@@ -1,0 +1,1904 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\gasag\\OneDrive\\Desktop\\RLL\\DALLibrary\\DALLibrary\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4CDDEF8B-FA62-4C41-A777-DF62F80AC1F9}|DALLibrary\\DALLibrary.csproj|C:\\Users\\gasag\\OneDrive\\Desktop\\RLL\\DALLibrary\\DALLibrary\\dallibrary\\crud\\front_officercrud.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4CDDEF8B-FA62-4C41-A777-DF62F80AC1F9}|DALLibrary\\DALLibrary.csproj|solutionrelative:dallibrary\\crud\\front_officercrud.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CDDEF8B-FA62-4C41-A777-DF62F80AC1F9}|DALLibrary\\DALLibrary.csproj|C:\\Users\\gasag\\OneDrive\\Desktop\\RLL\\DALLibrary\\DALLibrary\\dallibrary\\domain_classes\\front_officer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4CDDEF8B-FA62-4C41-A777-DF62F80AC1F9}|DALLibrary\\DALLibrary.csproj|solutionrelative:dallibrary\\domain_classes\\front_officer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75250D9E-A400-42C0-8F73-E3C84C2500B8}|ClinicUI\\ClinicUI.csproj|c:\\users\\gasag\\onedrive\\desktop\\rll\\dallibrary\\dallibrary\\clinicui\\controllers\\doctorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75250D9E-A400-42C0-8F73-E3C84C2500B8}|ClinicUI\\ClinicUI.csproj|solutionrelative:clinicui\\controllers\\doctorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FAF84D54-19D6-44D2-8ADF-5EE48C1AC1D2}|ClinicApi\\ClinicApi.csproj|C:\\Users\\gasag\\OneDrive\\Desktop\\RLL\\DALLibrary\\DALLibrary\\clinicapi\\controllers\\pharmacistapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FAF84D54-19D6-44D2-8ADF-5EE48C1AC1D2}|ClinicApi\\ClinicApi.csproj|solutionrelative:clinicapi\\controllers\\pharmacistapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FAF84D54-19D6-44D2-8ADF-5EE48C1AC1D2}|ClinicApi\\ClinicApi.csproj|C:\\Users\\gasag\\OneDrive\\Desktop\\RLL\\DALLibrary\\DALLibrary\\clinicapi\\controllers\\patientsapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FAF84D54-19D6-44D2-8ADF-5EE48C1AC1D2}|ClinicApi\\ClinicApi.csproj|solutionrelative:clinicapi\\controllers\\patientsapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FAF84D54-19D6-44D2-8ADF-5EE48C1AC1D2}|ClinicApi\\ClinicApi.csproj|C:\\Users\\gasag\\OneDrive\\Desktop\\RLL\\DALLibrary\\DALLibrary\\clinicapi\\controllers\\medicinesapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FAF84D54-19D6-44D2-8ADF-5EE48C1AC1D2}|ClinicApi\\ClinicApi.csproj|solutionrelative:clinicapi\\controllers\\medicinesapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FAF84D54-19D6-44D2-8ADF-5EE48C1AC1D2}|ClinicApi\\ClinicApi.csproj|C:\\Users\\gasag\\OneDrive\\Desktop\\RLL\\DALLibrary\\DALLibrary\\clinicapi\\controllers\\doctorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FAF84D54-19D6-44D2-8ADF-5EE48C1AC1D2}|ClinicApi\\ClinicApi.csproj|solutionrelative:clinicapi\\controllers\\doctorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FAF84D54-19D6-44D2-8ADF-5EE48C1AC1D2}|ClinicApi\\ClinicApi.csproj|C:\\Users\\gasag\\OneDrive\\Desktop\\RLL\\DALLibrary\\DALLibrary\\clinicapi\\controllers\\front_officercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FAF84D54-19D6-44D2-8ADF-5EE48C1AC1D2}|ClinicApi\\ClinicApi.csproj|solutionrelative:clinicapi\\controllers\\front_officercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FAF84D54-19D6-44D2-8ADF-5EE48C1AC1D2}|ClinicApi\\ClinicApi.csproj|C:\\Users\\gasag\\OneDrive\\Desktop\\RLL\\DALLibrary\\DALLibrary\\clinicapi\\models\\service.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FAF84D54-19D6-44D2-8ADF-5EE48C1AC1D2}|ClinicApi\\ClinicApi.csproj|solutionrelative:clinicapi\\models\\service.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75250D9E-A400-42C0-8F73-E3C84C2500B8}|ClinicUI\\ClinicUI.csproj|C:\\Users\\gasag\\OneDrive\\Desktop\\RLL\\DALLibrary\\DALLibrary\\clinicui\\controllers\\frontofficercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75250D9E-A400-42C0-8F73-E3C84C2500B8}|ClinicUI\\ClinicUI.csproj|solutionrelative:clinicui\\controllers\\frontofficercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75250D9E-A400-42C0-8F73-E3C84C2500B8}|ClinicUI\\ClinicUI.csproj|C:\\Users\\gasag\\OneDrive\\Desktop\\RLL\\DALLibrary\\DALLibrary\\ClinicUI\\Controllers\\ManagerController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75250D9E-A400-42C0-8F73-E3C84C2500B8}|ClinicUI\\ClinicUI.csproj|solutionrelative:ClinicUI\\Controllers\\ManagerController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CDDEF8B-FA62-4C41-A777-DF62F80AC1F9}|DALLibrary\\DALLibrary.csproj|C:\\Users\\gasag\\OneDrive\\Desktop\\RLL\\DALLibrary\\DALLibrary\\dallibrary\\crud\\doctorcrud.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4CDDEF8B-FA62-4C41-A777-DF62F80AC1F9}|DALLibrary\\DALLibrary.csproj|solutionrelative:dallibrary\\crud\\doctorcrud.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CDDEF8B-FA62-4C41-A777-DF62F80AC1F9}|DALLibrary\\DALLibrary.csproj|C:\\Users\\gasag\\OneDrive\\Desktop\\RLL\\DALLibrary\\DALLibrary\\dallibrary\\data\\clinicdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4CDDEF8B-FA62-4C41-A777-DF62F80AC1F9}|DALLibrary\\DALLibrary.csproj|solutionrelative:dallibrary\\data\\clinicdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CDDEF8B-FA62-4C41-A777-DF62F80AC1F9}|DALLibrary\\DALLibrary.csproj|C:\\Users\\gasag\\OneDrive\\Desktop\\RLL\\DALLibrary\\DALLibrary\\dallibrary\\crud\\appointmentcrud.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4CDDEF8B-FA62-4C41-A777-DF62F80AC1F9}|DALLibrary\\DALLibrary.csproj|solutionrelative:dallibrary\\crud\\appointmentcrud.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75250D9E-A400-42C0-8F73-E3C84C2500B8}|ClinicUI\\ClinicUI.csproj|C:\\Users\\gasag\\OneDrive\\Desktop\\RLL\\DALLibrary\\DALLibrary\\ClinicUI\\Controllers\\LoginController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75250D9E-A400-42C0-8F73-E3C84C2500B8}|ClinicUI\\ClinicUI.csproj|solutionrelative:ClinicUI\\Controllers\\LoginController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75250D9E-A400-42C0-8F73-E3C84C2500B8}|ClinicUI\\ClinicUI.csproj|C:\\Users\\gasag\\OneDrive\\Desktop\\RLL\\DALLibrary\\DALLibrary\\ClinicUI\\Controllers\\PatientsController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75250D9E-A400-42C0-8F73-E3C84C2500B8}|ClinicUI\\ClinicUI.csproj|solutionrelative:ClinicUI\\Controllers\\PatientsController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CDDEF8B-FA62-4C41-A777-DF62F80AC1F9}|DALLibrary\\DALLibrary.csproj|C:\\Users\\gasag\\OneDrive\\Desktop\\RLL\\DALLibrary\\DALLibrary\\dallibrary\\crud\\patientcrud.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4CDDEF8B-FA62-4C41-A777-DF62F80AC1F9}|DALLibrary\\DALLibrary.csproj|solutionrelative:dallibrary\\crud\\patientcrud.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75250D9E-A400-42C0-8F73-E3C84C2500B8}|ClinicUI\\ClinicUI.csproj|C:\\Users\\gasag\\OneDrive\\Desktop\\RLL\\DALLibrary\\DALLibrary\\ClinicUI\\Views\\Doctor\\UpdateProfile.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{75250D9E-A400-42C0-8F73-E3C84C2500B8}|ClinicUI\\ClinicUI.csproj|solutionrelative:ClinicUI\\Views\\Doctor\\UpdateProfile.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CDDEF8B-FA62-4C41-A777-DF62F80AC1F9}|DALLibrary\\DALLibrary.csproj|C:\\Users\\gasag\\OneDrive\\Desktop\\RLL\\DALLibrary\\DALLibrary\\dallibrary\\domain_classes\\appointment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4CDDEF8B-FA62-4C41-A777-DF62F80AC1F9}|DALLibrary\\DALLibrary.csproj|solutionrelative:dallibrary\\domain_classes\\appointment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CDDEF8B-FA62-4C41-A777-DF62F80AC1F9}|DALLibrary\\DALLibrary.csproj|C:\\Users\\gasag\\OneDrive\\Desktop\\RLL\\DALLibrary\\DALLibrary\\dallibrary\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{4CDDEF8B-FA62-4C41-A777-DF62F80AC1F9}|DALLibrary\\DALLibrary.csproj|solutionrelative:dallibrary\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CDDEF8B-FA62-4C41-A777-DF62F80AC1F9}|DALLibrary\\DALLibrary.csproj|C:\\Users\\gasag\\OneDrive\\Desktop\\RLL\\DALLibrary\\DALLibrary\\dallibrary\\domain_classes\\patient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4CDDEF8B-FA62-4C41-A777-DF62F80AC1F9}|DALLibrary\\DALLibrary.csproj|solutionrelative:dallibrary\\domain_classes\\patient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75250D9E-A400-42C0-8F73-E3C84C2500B8}|ClinicUI\\ClinicUI.csproj|C:\\Users\\gasag\\OneDrive\\Desktop\\RLL\\DALLibrary\\DALLibrary\\ClinicUI\\Views\\Login\\PatientLogin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{75250D9E-A400-42C0-8F73-E3C84C2500B8}|ClinicUI\\ClinicUI.csproj|solutionrelative:ClinicUI\\Views\\Login\\PatientLogin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75250D9E-A400-42C0-8F73-E3C84C2500B8}|ClinicUI\\ClinicUI.csproj|C:\\Users\\gasag\\OneDrive\\Desktop\\RLL\\DALLibrary\\DALLibrary\\ClinicUI\\Views\\Patients\\BookOp.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{75250D9E-A400-42C0-8F73-E3C84C2500B8}|ClinicUI\\ClinicUI.csproj|solutionrelative:ClinicUI\\Views\\Patients\\BookOp.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CDDEF8B-FA62-4C41-A777-DF62F80AC1F9}|DALLibrary\\DALLibrary.csproj|C:\\Users\\gasag\\OneDrive\\Desktop\\RLL\\DALLibrary\\DALLibrary\\dallibrary\\domain_classes\\doctor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4CDDEF8B-FA62-4C41-A777-DF62F80AC1F9}|DALLibrary\\DALLibrary.csproj|solutionrelative:dallibrary\\domain_classes\\doctor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CDDEF8B-FA62-4C41-A777-DF62F80AC1F9}|DALLibrary\\DALLibrary.csproj|C:\\Users\\gasag\\OneDrive\\Desktop\\RLL\\DALLibrary\\DALLibrary\\dallibrary\\migrations\\configuration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4CDDEF8B-FA62-4C41-A777-DF62F80AC1F9}|DALLibrary\\DALLibrary.csproj|solutionrelative:dallibrary\\migrations\\configuration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CDDEF8B-FA62-4C41-A777-DF62F80AC1F9}|DALLibrary\\DALLibrary.csproj|C:\\Users\\gasag\\OneDrive\\Desktop\\RLL\\DALLibrary\\DALLibrary\\dallibrary\\migrations\\202402021905489_firstmig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4CDDEF8B-FA62-4C41-A777-DF62F80AC1F9}|DALLibrary\\DALLibrary.csproj|solutionrelative:dallibrary\\migrations\\202402021905489_firstmig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CDDEF8B-FA62-4C41-A777-DF62F80AC1F9}|DALLibrary\\DALLibrary.csproj|C:\\Users\\gasag\\OneDrive\\Desktop\\RLL\\DALLibrary\\DALLibrary\\dallibrary\\crud\\managercrud.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4CDDEF8B-FA62-4C41-A777-DF62F80AC1F9}|DALLibrary\\DALLibrary.csproj|solutionrelative:dallibrary\\crud\\managercrud.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FAF84D54-19D6-44D2-8ADF-5EE48C1AC1D2}|ClinicApi\\ClinicApi.csproj|C:\\Users\\gasag\\OneDrive\\Desktop\\RLL\\DALLibrary\\DALLibrary\\clinicapi\\content\\message.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{FAF84D54-19D6-44D2-8ADF-5EE48C1AC1D2}|ClinicApi\\ClinicApi.csproj|solutionrelative:clinicapi\\content\\message.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FAF84D54-19D6-44D2-8ADF-5EE48C1AC1D2}|ClinicApi\\ClinicApi.csproj|C:\\Users\\gasag\\OneDrive\\Desktop\\RLL\\DALLibrary\\DALLibrary\\clinicapi\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{FAF84D54-19D6-44D2-8ADF-5EE48C1AC1D2}|ClinicApi\\ClinicApi.csproj|solutionrelative:clinicapi\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CDDEF8B-FA62-4C41-A777-DF62F80AC1F9}|DALLibrary\\DALLibrary.csproj|C:\\Users\\gasag\\OneDrive\\Desktop\\RLL\\DALLibrary\\DALLibrary\\dallibrary\\domain_classes\\medicine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4CDDEF8B-FA62-4C41-A777-DF62F80AC1F9}|DALLibrary\\DALLibrary.csproj|solutionrelative:dallibrary\\domain_classes\\medicine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CDDEF8B-FA62-4C41-A777-DF62F80AC1F9}|DALLibrary\\DALLibrary.csproj|C:\\Users\\gasag\\OneDrive\\Desktop\\RLL\\DALLibrary\\DALLibrary\\dallibrary\\domain_classes\\manager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4CDDEF8B-FA62-4C41-A777-DF62F80AC1F9}|DALLibrary\\DALLibrary.csproj|solutionrelative:dallibrary\\domain_classes\\manager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CDDEF8B-FA62-4C41-A777-DF62F80AC1F9}|DALLibrary\\DALLibrary.csproj|C:\\Users\\gasag\\OneDrive\\Desktop\\RLL\\DALLibrary\\DALLibrary\\dallibrary\\crud\\messagecrud.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4CDDEF8B-FA62-4C41-A777-DF62F80AC1F9}|DALLibrary\\DALLibrary.csproj|solutionrelative:dallibrary\\crud\\messagecrud.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CDDEF8B-FA62-4C41-A777-DF62F80AC1F9}|DALLibrary\\DALLibrary.csproj|C:\\Users\\gasag\\OneDrive\\Desktop\\RLL\\DALLibrary\\DALLibrary\\dallibrary\\crud\\pharmacistcrud.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4CDDEF8B-FA62-4C41-A777-DF62F80AC1F9}|DALLibrary\\DALLibrary.csproj|solutionrelative:dallibrary\\crud\\pharmacistcrud.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CDDEF8B-FA62-4C41-A777-DF62F80AC1F9}|DALLibrary\\DALLibrary.csproj|C:\\Users\\gasag\\OneDrive\\Desktop\\RLL\\DALLibrary\\DALLibrary\\dallibrary\\crud\\medicinecrud.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4CDDEF8B-FA62-4C41-A777-DF62F80AC1F9}|DALLibrary\\DALLibrary.csproj|solutionrelative:dallibrary\\crud\\medicinecrud.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CDDEF8B-FA62-4C41-A777-DF62F80AC1F9}|DALLibrary\\DALLibrary.csproj|C:\\Users\\gasag\\OneDrive\\Desktop\\RLL\\DALLibrary\\DALLibrary\\dallibrary\\domain_classes\\message.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4CDDEF8B-FA62-4C41-A777-DF62F80AC1F9}|DALLibrary\\DALLibrary.csproj|solutionrelative:dallibrary\\domain_classes\\message.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CDDEF8B-FA62-4C41-A777-DF62F80AC1F9}|DALLibrary\\DALLibrary.csproj|C:\\Users\\gasag\\OneDrive\\Desktop\\RLL\\DALLibrary\\DALLibrary\\dallibrary\\packages.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{4CDDEF8B-FA62-4C41-A777-DF62F80AC1F9}|DALLibrary\\DALLibrary.csproj|solutionrelative:dallibrary\\packages.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FAF84D54-19D6-44D2-8ADF-5EE48C1AC1D2}|ClinicApi\\ClinicApi.csproj|C:\\Users\\gasag\\OneDrive\\Desktop\\RLL\\DALLibrary\\DALLibrary\\clinicapi\\app_start\\routeconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FAF84D54-19D6-44D2-8ADF-5EE48C1AC1D2}|ClinicApi\\ClinicApi.csproj|solutionrelative:clinicapi\\app_start\\routeconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CDDEF8B-FA62-4C41-A777-DF62F80AC1F9}|DALLibrary\\DALLibrary.csproj|C:\\Users\\gasag\\OneDrive\\Desktop\\RLL\\DALLibrary\\DALLibrary\\dallibrary\\domain_classes\\pharmacist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4CDDEF8B-FA62-4C41-A777-DF62F80AC1F9}|DALLibrary\\DALLibrary.csproj|solutionrelative:dallibrary\\domain_classes\\pharmacist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75250D9E-A400-42C0-8F73-E3C84C2500B8}|ClinicUI\\ClinicUI.csproj|C:\\Users\\gasag\\OneDrive\\Desktop\\RLL\\DALLibrary\\DALLibrary\\ClinicUI\\Views\\Manager\\CreateDoctors.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{75250D9E-A400-42C0-8F73-E3C84C2500B8}|ClinicUI\\ClinicUI.csproj|solutionrelative:ClinicUI\\Views\\Manager\\CreateDoctors.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75250D9E-A400-42C0-8F73-E3C84C2500B8}|ClinicUI\\ClinicUI.csproj|C:\\Users\\gasag\\OneDrive\\Desktop\\RLL\\DALLibrary\\DALLibrary\\ClinicUI\\Views\\Manager\\DisplayPatients.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{75250D9E-A400-42C0-8F73-E3C84C2500B8}|ClinicUI\\ClinicUI.csproj|solutionrelative:ClinicUI\\Views\\Manager\\DisplayPatients.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75250D9E-A400-42C0-8F73-E3C84C2500B8}|ClinicUI\\ClinicUI.csproj|C:\\Users\\gasag\\OneDrive\\Desktop\\RLL\\DALLibrary\\DALLibrary\\ClinicUI\\Content\\SearchScript.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{75250D9E-A400-42C0-8F73-E3C84C2500B8}|ClinicUI\\ClinicUI.csproj|solutionrelative:ClinicUI\\Content\\SearchScript.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75250D9E-A400-42C0-8F73-E3C84C2500B8}|ClinicUI\\ClinicUI.csproj|C:\\Users\\gasag\\OneDrive\\Desktop\\RLL\\DALLibrary\\DALLibrary\\ClinicUI\\Views\\Patients\\ViewAppointments.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{75250D9E-A400-42C0-8F73-E3C84C2500B8}|ClinicUI\\ClinicUI.csproj|solutionrelative:ClinicUI\\Views\\Patients\\ViewAppointments.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75250D9E-A400-42C0-8F73-E3C84C2500B8}|ClinicUI\\ClinicUI.csproj|C:\\Users\\gasag\\OneDrive\\Desktop\\RLL\\DALLibrary\\DALLibrary\\ClinicUI\\Views\\Patients\\ViewMedicine.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{75250D9E-A400-42C0-8F73-E3C84C2500B8}|ClinicUI\\ClinicUI.csproj|solutionrelative:ClinicUI\\Views\\Patients\\ViewMedicine.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E021C7CB-CD5C-4E79-8631-41E85F728EB1}|ClinicTestProject\\ClinicTestProject.csproj|c:\\users\\gasag\\onedrive\\desktop\\rll\\dallibrary\\dallibrary\\clinictestproject\\clinictestproject.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{E021C7CB-CD5C-4E79-8631-41E85F728EB1}|ClinicTestProject\\ClinicTestProject.csproj|solutionrelative:clinictestproject\\clinictestproject.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E021C7CB-CD5C-4E79-8631-41E85F728EB1}|ClinicTestProject\\ClinicTestProject.csproj|c:\\users\\gasag\\onedrive\\desktop\\rll\\dallibrary\\dallibrary\\clinictestproject\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E021C7CB-CD5C-4E79-8631-41E85F728EB1}|ClinicTestProject\\ClinicTestProject.csproj|solutionrelative:clinictestproject\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75250D9E-A400-42C0-8F73-E3C84C2500B8}|ClinicUI\\ClinicUI.csproj|C:\\Users\\gasag\\OneDrive\\Desktop\\RLL\\DALLibrary\\DALLibrary\\ClinicUI\\Views\\Patients\\UpdatePatient.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{75250D9E-A400-42C0-8F73-E3C84C2500B8}|ClinicUI\\ClinicUI.csproj|solutionrelative:ClinicUI\\Views\\Patients\\UpdatePatient.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75250D9E-A400-42C0-8F73-E3C84C2500B8}|ClinicUI\\ClinicUI.csproj|C:\\Users\\gasag\\OneDrive\\Desktop\\RLL\\DALLibrary\\DALLibrary\\ClinicUI\\Views\\Shared\\_Layout_Patient.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{75250D9E-A400-42C0-8F73-E3C84C2500B8}|ClinicUI\\ClinicUI.csproj|solutionrelative:ClinicUI\\Views\\Shared\\_Layout_Patient.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75250D9E-A400-42C0-8F73-E3C84C2500B8}|ClinicUI\\ClinicUI.csproj|C:\\Users\\gasag\\OneDrive\\Desktop\\RLL\\DALLibrary\\DALLibrary\\ClinicUI\\Views\\Manager\\Createfrontofficer.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{75250D9E-A400-42C0-8F73-E3C84C2500B8}|ClinicUI\\ClinicUI.csproj|solutionrelative:ClinicUI\\Views\\Manager\\Createfrontofficer.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E021C7CB-CD5C-4E79-8631-41E85F728EB1}|ClinicTestProject\\ClinicTestProject.csproj|c:\\users\\gasag\\onedrive\\desktop\\rll\\dallibrary\\dallibrary\\clinictestproject\\globalusings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E021C7CB-CD5C-4E79-8631-41E85F728EB1}|ClinicTestProject\\ClinicTestProject.csproj|solutionrelative:clinictestproject\\globalusings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75250D9E-A400-42C0-8F73-E3C84C2500B8}|ClinicUI\\ClinicUI.csproj|C:\\Users\\gasag\\OneDrive\\Desktop\\RLL\\DALLibrary\\DALLibrary\\ClinicUI\\Views\\Manager\\Displayfrontofficer.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{75250D9E-A400-42C0-8F73-E3C84C2500B8}|ClinicUI\\ClinicUI.csproj|solutionrelative:ClinicUI\\Views\\Manager\\Displayfrontofficer.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75250D9E-A400-42C0-8F73-E3C84C2500B8}|ClinicUI\\ClinicUI.csproj|C:\\Users\\gasag\\OneDrive\\Desktop\\RLL\\DALLibrary\\DALLibrary\\ClinicUI\\Views\\FrontOfficer\\ViewAppointment.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{75250D9E-A400-42C0-8F73-E3C84C2500B8}|ClinicUI\\ClinicUI.csproj|solutionrelative:ClinicUI\\Views\\FrontOfficer\\ViewAppointment.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E021C7CB-CD5C-4E79-8631-41E85F728EB1}|ClinicTestProject\\ClinicTestProject.csproj|c:\\users\\gasag\\onedrive\\desktop\\rll\\dallibrary\\dallibrary\\clinictestproject\\clinictestproject.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{E021C7CB-CD5C-4E79-8631-41E85F728EB1}|ClinicTestProject\\ClinicTestProject.csproj|solutionrelative:clinictestproject\\clinictestproject.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75250D9E-A400-42C0-8F73-E3C84C2500B8}|ClinicUI\\ClinicUI.csproj|C:\\Users\\gasag\\OneDrive\\Desktop\\RLL\\DALLibrary\\DALLibrary\\ClinicUI\\Views\\Patients\\GetAllDoc.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{75250D9E-A400-42C0-8F73-E3C84C2500B8}|ClinicUI\\ClinicUI.csproj|solutionrelative:ClinicUI\\Views\\Patients\\GetAllDoc.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75250D9E-A400-42C0-8F73-E3C84C2500B8}|ClinicUI\\ClinicUI.csproj|C:\\Users\\gasag\\OneDrive\\Desktop\\RLL\\DALLibrary\\DALLibrary\\ClinicUI\\App_Start\\RouteConfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75250D9E-A400-42C0-8F73-E3C84C2500B8}|ClinicUI\\ClinicUI.csproj|solutionrelative:ClinicUI\\App_Start\\RouteConfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75250D9E-A400-42C0-8F73-E3C84C2500B8}|ClinicUI\\ClinicUI.csproj|C:\\Users\\gasag\\OneDrive\\Desktop\\RLL\\DALLibrary\\DALLibrary\\ClinicUI\\Controllers\\ResetPasswordController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75250D9E-A400-42C0-8F73-E3C84C2500B8}|ClinicUI\\ClinicUI.csproj|solutionrelative:ClinicUI\\Controllers\\ResetPasswordController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75250D9E-A400-42C0-8F73-E3C84C2500B8}|ClinicUI\\ClinicUI.csproj|C:\\Users\\gasag\\OneDrive\\Desktop\\RLL\\DALLibrary\\DALLibrary\\ClinicUI\\Views\\Patients\\RegisterPatient.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{75250D9E-A400-42C0-8F73-E3C84C2500B8}|ClinicUI\\ClinicUI.csproj|solutionrelative:ClinicUI\\Views\\Patients\\RegisterPatient.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75250D9E-A400-42C0-8F73-E3C84C2500B8}|ClinicUI\\ClinicUI.csproj|C:\\Users\\gasag\\OneDrive\\Desktop\\RLL\\DALLibrary\\DALLibrary\\ClinicUI\\Views\\Login\\Index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{75250D9E-A400-42C0-8F73-E3C84C2500B8}|ClinicUI\\ClinicUI.csproj|solutionrelative:ClinicUI\\Views\\Login\\Index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75250D9E-A400-42C0-8F73-E3C84C2500B8}|ClinicUI\\ClinicUI.csproj|C:\\Users\\gasag\\OneDrive\\Desktop\\RLL\\DALLibrary\\DALLibrary\\ClinicUI\\Content\\Register.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{75250D9E-A400-42C0-8F73-E3C84C2500B8}|ClinicUI\\ClinicUI.csproj|solutionrelative:ClinicUI\\Content\\Register.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75250D9E-A400-42C0-8F73-E3C84C2500B8}|ClinicUI\\ClinicUI.csproj|C:\\Users\\gasag\\OneDrive\\Desktop\\RLL\\DALLibrary\\DALLibrary\\ClinicUI\\Content\\Home.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{75250D9E-A400-42C0-8F73-E3C84C2500B8}|ClinicUI\\ClinicUI.csproj|solutionrelative:ClinicUI\\Content\\Home.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75250D9E-A400-42C0-8F73-E3C84C2500B8}|ClinicUI\\ClinicUI.csproj|C:\\Users\\gasag\\OneDrive\\Desktop\\RLL\\DALLibrary\\DALLibrary\\ClinicUI\\Views\\Home\\Index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{75250D9E-A400-42C0-8F73-E3C84C2500B8}|ClinicUI\\ClinicUI.csproj|solutionrelative:ClinicUI\\Views\\Home\\Index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75250D9E-A400-42C0-8F73-E3C84C2500B8}|ClinicUI\\ClinicUI.csproj|C:\\Users\\gasag\\OneDrive\\Desktop\\RLL\\DALLibrary\\DALLibrary\\ClinicUI\\Views\\Login\\AdminLogin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{75250D9E-A400-42C0-8F73-E3C84C2500B8}|ClinicUI\\ClinicUI.csproj|solutionrelative:ClinicUI\\Views\\Login\\AdminLogin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75250D9E-A400-42C0-8F73-E3C84C2500B8}|ClinicUI\\ClinicUI.csproj|C:\\Users\\gasag\\OneDrive\\Desktop\\RLL\\DALLibrary\\DALLibrary\\ClinicUI\\Web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{75250D9E-A400-42C0-8F73-E3C84C2500B8}|ClinicUI\\ClinicUI.csproj|solutionrelative:ClinicUI\\Web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75250D9E-A400-42C0-8F73-E3C84C2500B8}|ClinicUI\\ClinicUI.csproj|C:\\Users\\gasag\\OneDrive\\Desktop\\RLL\\DALLibrary\\DALLibrary\\ClinicUI\\Views\\FrontOfficer\\BookAppointment.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{75250D9E-A400-42C0-8F73-E3C84C2500B8}|ClinicUI\\ClinicUI.csproj|solutionrelative:ClinicUI\\Views\\FrontOfficer\\BookAppointment.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75250D9E-A400-42C0-8F73-E3C84C2500B8}|ClinicUI\\ClinicUI.csproj|C:\\Users\\gasag\\OneDrive\\Desktop\\RLL\\DALLibrary\\DALLibrary\\ClinicUI\\Views\\FrontOfficer\\AddPatient.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{75250D9E-A400-42C0-8F73-E3C84C2500B8}|ClinicUI\\ClinicUI.csproj|solutionrelative:ClinicUI\\Views\\FrontOfficer\\AddPatient.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75250D9E-A400-42C0-8F73-E3C84C2500B8}|ClinicUI\\ClinicUI.csproj|C:\\Users\\gasag\\OneDrive\\Desktop\\RLL\\DALLibrary\\DALLibrary\\ClinicUI\\Views\\Doctor\\MessagePatient.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{75250D9E-A400-42C0-8F73-E3C84C2500B8}|ClinicUI\\ClinicUI.csproj|solutionrelative:ClinicUI\\Views\\Doctor\\MessagePatient.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75250D9E-A400-42C0-8F73-E3C84C2500B8}|ClinicUI\\ClinicUI.csproj|C:\\Users\\gasag\\OneDrive\\Desktop\\RLL\\DALLibrary\\DALLibrary\\ClinicUI\\Views\\Patients\\MessageDoctor.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{75250D9E-A400-42C0-8F73-E3C84C2500B8}|ClinicUI\\ClinicUI.csproj|solutionrelative:ClinicUI\\Views\\Patients\\MessageDoctor.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75250D9E-A400-42C0-8F73-E3C84C2500B8}|ClinicUI\\ClinicUI.csproj|C:\\Users\\gasag\\OneDrive\\Desktop\\RLL\\DALLibrary\\DALLibrary\\ClinicUI\\Content\\ResetScript.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{75250D9E-A400-42C0-8F73-E3C84C2500B8}|ClinicUI\\ClinicUI.csproj|solutionrelative:ClinicUI\\Content\\ResetScript.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75250D9E-A400-42C0-8F73-E3C84C2500B8}|ClinicUI\\ClinicUI.csproj|C:\\Users\\gasag\\OneDrive\\Desktop\\RLL\\DALLibrary\\DALLibrary\\ClinicUI\\packages.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{75250D9E-A400-42C0-8F73-E3C84C2500B8}|ClinicUI\\ClinicUI.csproj|solutionrelative:ClinicUI\\packages.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75250D9E-A400-42C0-8F73-E3C84C2500B8}|ClinicUI\\ClinicUI.csproj|C:\\Users\\gasag\\OneDrive\\Desktop\\RLL\\DALLibrary\\DALLibrary\\ClinicUI\\Controllers\\PharmacistController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75250D9E-A400-42C0-8F73-E3C84C2500B8}|ClinicUI\\ClinicUI.csproj|solutionrelative:ClinicUI\\Controllers\\PharmacistController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75250D9E-A400-42C0-8F73-E3C84C2500B8}|ClinicUI\\ClinicUI.csproj|C:\\Users\\gasag\\OneDrive\\Desktop\\RLL\\DALLibrary\\DALLibrary\\ClinicUI\\Views\\Pharmacist\\Edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{75250D9E-A400-42C0-8F73-E3C84C2500B8}|ClinicUI\\ClinicUI.csproj|solutionrelative:ClinicUI\\Views\\Pharmacist\\Edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75250D9E-A400-42C0-8F73-E3C84C2500B8}|ClinicUI\\ClinicUI.csproj|C:\\Users\\gasag\\OneDrive\\Desktop\\RLL\\DALLibrary\\DALLibrary\\ClinicUI\\Views\\Pharmacist\\UpdateInfo.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{75250D9E-A400-42C0-8F73-E3C84C2500B8}|ClinicUI\\ClinicUI.csproj|solutionrelative:ClinicUI\\Views\\Pharmacist\\UpdateInfo.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75250D9E-A400-42C0-8F73-E3C84C2500B8}|ClinicUI\\ClinicUI.csproj|C:\\Users\\gasag\\OneDrive\\Desktop\\RLL\\DALLibrary\\DALLibrary\\ClinicUI\\Views\\Doctor\\MedicineList.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{75250D9E-A400-42C0-8F73-E3C84C2500B8}|ClinicUI\\ClinicUI.csproj|solutionrelative:ClinicUI\\Views\\Doctor\\MedicineList.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75250D9E-A400-42C0-8F73-E3C84C2500B8}|ClinicUI\\ClinicUI.csproj|C:\\Users\\gasag\\OneDrive\\Desktop\\RLL\\DALLibrary\\DALLibrary\\ClinicUI\\Scripts\\Inbox.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{75250D9E-A400-42C0-8F73-E3C84C2500B8}|ClinicUI\\ClinicUI.csproj|solutionrelative:ClinicUI\\Scripts\\Inbox.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75250D9E-A400-42C0-8F73-E3C84C2500B8}|ClinicUI\\ClinicUI.csproj|C:\\Users\\gasag\\OneDrive\\Desktop\\RLL\\DALLibrary\\DALLibrary\\ClinicUI\\Views\\Manager\\Index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{75250D9E-A400-42C0-8F73-E3C84C2500B8}|ClinicUI\\ClinicUI.csproj|solutionrelative:ClinicUI\\Views\\Manager\\Index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75250D9E-A400-42C0-8F73-E3C84C2500B8}|ClinicUI\\ClinicUI.csproj|C:\\Users\\gasag\\OneDrive\\Desktop\\RLL\\DALLibrary\\DALLibrary\\ClinicUI\\Views\\Manager\\UpdatePatients.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{75250D9E-A400-42C0-8F73-E3C84C2500B8}|ClinicUI\\ClinicUI.csproj|solutionrelative:ClinicUI\\Views\\Manager\\UpdatePatients.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75250D9E-A400-42C0-8F73-E3C84C2500B8}|ClinicUI\\ClinicUI.csproj|C:\\Users\\gasag\\OneDrive\\Desktop\\RLL\\DALLibrary\\DALLibrary\\ClinicUI\\Views\\Manager\\CreatePatients.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{75250D9E-A400-42C0-8F73-E3C84C2500B8}|ClinicUI\\ClinicUI.csproj|solutionrelative:ClinicUI\\Views\\Manager\\CreatePatients.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75250D9E-A400-42C0-8F73-E3C84C2500B8}|ClinicUI\\ClinicUI.csproj|C:\\Users\\gasag\\OneDrive\\Desktop\\RLL\\DALLibrary\\DALLibrary\\ClinicUI\\Views\\Manager\\CreatePharmasicts.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{75250D9E-A400-42C0-8F73-E3C84C2500B8}|ClinicUI\\ClinicUI.csproj|solutionrelative:ClinicUI\\Views\\Manager\\CreatePharmasicts.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75250D9E-A400-42C0-8F73-E3C84C2500B8}|ClinicUI\\ClinicUI.csproj|C:\\Users\\gasag\\OneDrive\\Desktop\\RLL\\DALLibrary\\DALLibrary\\ClinicUI\\Views\\Manager\\UpdatePharmacist.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{75250D9E-A400-42C0-8F73-E3C84C2500B8}|ClinicUI\\ClinicUI.csproj|solutionrelative:ClinicUI\\Views\\Manager\\UpdatePharmacist.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75250D9E-A400-42C0-8F73-E3C84C2500B8}|ClinicUI\\ClinicUI.csproj|C:\\Users\\gasag\\OneDrive\\Desktop\\RLL\\DALLibrary\\DALLibrary\\ClinicUI\\Views\\Manager\\Updatemanager.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{75250D9E-A400-42C0-8F73-E3C84C2500B8}|ClinicUI\\ClinicUI.csproj|solutionrelative:ClinicUI\\Views\\Manager\\Updatemanager.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75250D9E-A400-42C0-8F73-E3C84C2500B8}|ClinicUI\\ClinicUI.csproj|C:\\Users\\gasag\\OneDrive\\Desktop\\RLL\\DALLibrary\\DALLibrary\\ClinicUI\\Views\\Manager\\Updatefrontofficer.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{75250D9E-A400-42C0-8F73-E3C84C2500B8}|ClinicUI\\ClinicUI.csproj|solutionrelative:ClinicUI\\Views\\Manager\\Updatefrontofficer.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75250D9E-A400-42C0-8F73-E3C84C2500B8}|ClinicUI\\ClinicUI.csproj|C:\\Users\\gasag\\OneDrive\\Desktop\\RLL\\DALLibrary\\DALLibrary\\ClinicUI\\Views\\Manager\\UpdateDoctors.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{75250D9E-A400-42C0-8F73-E3C84C2500B8}|ClinicUI\\ClinicUI.csproj|solutionrelative:ClinicUI\\Views\\Manager\\UpdateDoctors.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75250D9E-A400-42C0-8F73-E3C84C2500B8}|ClinicUI\\ClinicUI.csproj|C:\\Users\\gasag\\OneDrive\\Desktop\\RLL\\DALLibrary\\DALLibrary\\ClinicUI\\Views\\Manager\\DisplayPharmasicts.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{75250D9E-A400-42C0-8F73-E3C84C2500B8}|ClinicUI\\ClinicUI.csproj|solutionrelative:ClinicUI\\Views\\Manager\\DisplayPharmasicts.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75250D9E-A400-42C0-8F73-E3C84C2500B8}|ClinicUI\\ClinicUI.csproj|C:\\Users\\gasag\\OneDrive\\Desktop\\RLL\\DALLibrary\\DALLibrary\\ClinicUI\\Views\\Manager\\DisplayDoctors.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{75250D9E-A400-42C0-8F73-E3C84C2500B8}|ClinicUI\\ClinicUI.csproj|solutionrelative:ClinicUI\\Views\\Manager\\DisplayDoctors.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75250D9E-A400-42C0-8F73-E3C84C2500B8}|ClinicUI\\ClinicUI.csproj|C:\\Users\\gasag\\OneDrive\\Desktop\\RLL\\DALLibrary\\DALLibrary\\ClinicUI\\Views\\Manager\\DeletePharmacist.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{75250D9E-A400-42C0-8F73-E3C84C2500B8}|ClinicUI\\ClinicUI.csproj|solutionrelative:ClinicUI\\Views\\Manager\\DeletePharmacist.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75250D9E-A400-42C0-8F73-E3C84C2500B8}|ClinicUI\\ClinicUI.csproj|C:\\Users\\gasag\\OneDrive\\Desktop\\RLL\\DALLibrary\\DALLibrary\\ClinicUI\\Views\\Manager\\DeletePatient.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{75250D9E-A400-42C0-8F73-E3C84C2500B8}|ClinicUI\\ClinicUI.csproj|solutionrelative:ClinicUI\\Views\\Manager\\DeletePatient.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75250D9E-A400-42C0-8F73-E3C84C2500B8}|ClinicUI\\ClinicUI.csproj|C:\\Users\\gasag\\OneDrive\\Desktop\\RLL\\DALLibrary\\DALLibrary\\ClinicUI\\Views\\Manager\\DeleteDoctor.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{75250D9E-A400-42C0-8F73-E3C84C2500B8}|ClinicUI\\ClinicUI.csproj|solutionrelative:ClinicUI\\Views\\Manager\\DeleteDoctor.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75250D9E-A400-42C0-8F73-E3C84C2500B8}|ClinicUI\\ClinicUI.csproj|C:\\Users\\gasag\\OneDrive\\Desktop\\RLL\\DALLibrary\\DALLibrary\\ClinicUI\\Views\\Manager\\DeleteDoctors.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{75250D9E-A400-42C0-8F73-E3C84C2500B8}|ClinicUI\\ClinicUI.csproj|solutionrelative:ClinicUI\\Views\\Manager\\DeleteDoctors.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75250D9E-A400-42C0-8F73-E3C84C2500B8}|ClinicUI\\ClinicUI.csproj|C:\\Users\\gasag\\OneDrive\\Desktop\\RLL\\DALLibrary\\DALLibrary\\ClinicUI\\Views\\Pharmacist\\Index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{75250D9E-A400-42C0-8F73-E3C84C2500B8}|ClinicUI\\ClinicUI.csproj|solutionrelative:ClinicUI\\Views\\Pharmacist\\Index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75250D9E-A400-42C0-8F73-E3C84C2500B8}|ClinicUI\\ClinicUI.csproj|C:\\Users\\gasag\\OneDrive\\Desktop\\RLL\\DALLibrary\\DALLibrary\\ClinicUI\\Views\\FrontOfficer\\UpdateOfficerInfo.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{75250D9E-A400-42C0-8F73-E3C84C2500B8}|ClinicUI\\ClinicUI.csproj|solutionrelative:ClinicUI\\Views\\FrontOfficer\\UpdateOfficerInfo.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75250D9E-A400-42C0-8F73-E3C84C2500B8}|ClinicUI\\ClinicUI.csproj|C:\\Users\\gasag\\OneDrive\\Desktop\\RLL\\DALLibrary\\DALLibrary\\ClinicUI\\Views\\Shared\\_Layout_Front_Officer.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{75250D9E-A400-42C0-8F73-E3C84C2500B8}|ClinicUI\\ClinicUI.csproj|solutionrelative:ClinicUI\\Views\\Shared\\_Layout_Front_Officer.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75250D9E-A400-42C0-8F73-E3C84C2500B8}|ClinicUI\\ClinicUI.csproj|C:\\Users\\gasag\\OneDrive\\Desktop\\RLL\\DALLibrary\\DALLibrary\\ClinicUI\\Views\\ResetPassword\\ResetAdmin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{75250D9E-A400-42C0-8F73-E3C84C2500B8}|ClinicUI\\ClinicUI.csproj|solutionrelative:ClinicUI\\Views\\ResetPassword\\ResetAdmin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75250D9E-A400-42C0-8F73-E3C84C2500B8}|ClinicUI\\ClinicUI.csproj|C:\\Users\\gasag\\OneDrive\\Desktop\\RLL\\DALLibrary\\DALLibrary\\ClinicUI\\Views\\Pharmacist\\Create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{75250D9E-A400-42C0-8F73-E3C84C2500B8}|ClinicUI\\ClinicUI.csproj|solutionrelative:ClinicUI\\Views\\Pharmacist\\Create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75250D9E-A400-42C0-8F73-E3C84C2500B8}|ClinicUI\\ClinicUI.csproj|C:\\Users\\gasag\\OneDrive\\Desktop\\RLL\\DALLibrary\\DALLibrary\\ClinicUI\\Views\\ResetPassword\\ResetPhar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{75250D9E-A400-42C0-8F73-E3C84C2500B8}|ClinicUI\\ClinicUI.csproj|solutionrelative:ClinicUI\\Views\\ResetPassword\\ResetPhar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75250D9E-A400-42C0-8F73-E3C84C2500B8}|ClinicUI\\ClinicUI.csproj|C:\\Users\\gasag\\OneDrive\\Desktop\\RLL\\DALLibrary\\DALLibrary\\ClinicUI\\Views\\ResetPassword\\ResetPatient.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{75250D9E-A400-42C0-8F73-E3C84C2500B8}|ClinicUI\\ClinicUI.csproj|solutionrelative:ClinicUI\\Views\\ResetPassword\\ResetPatient.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75250D9E-A400-42C0-8F73-E3C84C2500B8}|ClinicUI\\ClinicUI.csproj|C:\\Users\\gasag\\OneDrive\\Desktop\\RLL\\DALLibrary\\DALLibrary\\ClinicUI\\Views\\ResetPassword\\ResetFO.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{75250D9E-A400-42C0-8F73-E3C84C2500B8}|ClinicUI\\ClinicUI.csproj|solutionrelative:ClinicUI\\Views\\ResetPassword\\ResetFO.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75250D9E-A400-42C0-8F73-E3C84C2500B8}|ClinicUI\\ClinicUI.csproj|C:\\Users\\gasag\\OneDrive\\Desktop\\RLL\\DALLibrary\\DALLibrary\\ClinicUI\\Views\\ResetPassword\\ResetDoc.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{75250D9E-A400-42C0-8F73-E3C84C2500B8}|ClinicUI\\ClinicUI.csproj|solutionrelative:ClinicUI\\Views\\ResetPassword\\ResetDoc.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75250D9E-A400-42C0-8F73-E3C84C2500B8}|ClinicUI\\ClinicUI.csproj|C:\\Users\\gasag\\OneDrive\\Desktop\\RLL\\DALLibrary\\DALLibrary\\ClinicUI\\Views\\Shared\\_Layout_Pharmacist.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{75250D9E-A400-42C0-8F73-E3C84C2500B8}|ClinicUI\\ClinicUI.csproj|solutionrelative:ClinicUI\\Views\\Shared\\_Layout_Pharmacist.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75250D9E-A400-42C0-8F73-E3C84C2500B8}|ClinicUI\\ClinicUI.csproj|C:\\Users\\gasag\\OneDrive\\Desktop\\RLL\\DALLibrary\\DALLibrary\\ClinicUI\\Views\\Login\\DoctorLogin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{75250D9E-A400-42C0-8F73-E3C84C2500B8}|ClinicUI\\ClinicUI.csproj|solutionrelative:ClinicUI\\Views\\Login\\DoctorLogin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75250D9E-A400-42C0-8F73-E3C84C2500B8}|ClinicUI\\ClinicUI.csproj|C:\\Users\\gasag\\OneDrive\\Desktop\\RLL\\DALLibrary\\DALLibrary\\ClinicUI\\Views\\Login\\PharmacistsLogin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{75250D9E-A400-42C0-8F73-E3C84C2500B8}|ClinicUI\\ClinicUI.csproj|solutionrelative:ClinicUI\\Views\\Login\\PharmacistsLogin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75250D9E-A400-42C0-8F73-E3C84C2500B8}|ClinicUI\\ClinicUI.csproj|C:\\Users\\gasag\\OneDrive\\Desktop\\RLL\\DALLibrary\\DALLibrary\\ClinicUI\\Views\\Login\\FrontOfficeLogin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{75250D9E-A400-42C0-8F73-E3C84C2500B8}|ClinicUI\\ClinicUI.csproj|solutionrelative:ClinicUI\\Views\\Login\\FrontOfficeLogin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75250D9E-A400-42C0-8F73-E3C84C2500B8}|ClinicUI\\ClinicUI.csproj|C:\\Users\\gasag\\OneDrive\\Desktop\\RLL\\DALLibrary\\DALLibrary\\ClinicUI\\Content\\ResetStyle.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{75250D9E-A400-42C0-8F73-E3C84C2500B8}|ClinicUI\\ClinicUI.csproj|solutionrelative:ClinicUI\\Content\\ResetStyle.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75250D9E-A400-42C0-8F73-E3C84C2500B8}|ClinicUI\\ClinicUI.csproj|C:\\Users\\gasag\\OneDrive\\Desktop\\RLL\\DALLibrary\\DALLibrary\\ClinicUI\\Views\\Doctor\\AppointmentList.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{75250D9E-A400-42C0-8F73-E3C84C2500B8}|ClinicUI\\ClinicUI.csproj|solutionrelative:ClinicUI\\Views\\Doctor\\AppointmentList.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75250D9E-A400-42C0-8F73-E3C84C2500B8}|ClinicUI\\ClinicUI.csproj|C:\\Users\\gasag\\OneDrive\\Desktop\\RLL\\DALLibrary\\DALLibrary\\ClinicUI\\Views\\Pharmacist\\Delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{75250D9E-A400-42C0-8F73-E3C84C2500B8}|ClinicUI\\ClinicUI.csproj|solutionrelative:ClinicUI\\Views\\Pharmacist\\Delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75250D9E-A400-42C0-8F73-E3C84C2500B8}|ClinicUI\\ClinicUI.csproj|C:\\Users\\gasag\\OneDrive\\Desktop\\RLL\\DALLibrary\\DALLibrary\\ClinicUI\\Views\\Shared\\_Layout_Manager.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{75250D9E-A400-42C0-8F73-E3C84C2500B8}|ClinicUI\\ClinicUI.csproj|solutionrelative:ClinicUI\\Views\\Shared\\_Layout_Manager.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75250D9E-A400-42C0-8F73-E3C84C2500B8}|ClinicUI\\ClinicUI.csproj|C:\\Users\\gasag\\OneDrive\\Desktop\\RLL\\DALLibrary\\DALLibrary\\ClinicUI\\Views\\Shared\\_Layout_Doctor.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{75250D9E-A400-42C0-8F73-E3C84C2500B8}|ClinicUI\\ClinicUI.csproj|solutionrelative:ClinicUI\\Views\\Shared\\_Layout_Doctor.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75250D9E-A400-42C0-8F73-E3C84C2500B8}|ClinicUI\\ClinicUI.csproj|C:\\Users\\gasag\\OneDrive\\Desktop\\RLL\\DALLibrary\\DALLibrary\\ClinicUI\\Views\\Shared\\_Layout_Manager_pat.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{75250D9E-A400-42C0-8F73-E3C84C2500B8}|ClinicUI\\ClinicUI.csproj|solutionrelative:ClinicUI\\Views\\Shared\\_Layout_Manager_pat.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75250D9E-A400-42C0-8F73-E3C84C2500B8}|ClinicUI\\ClinicUI.csproj|C:\\Users\\gasag\\OneDrive\\Desktop\\RLL\\DALLibrary\\DALLibrary\\ClinicUI\\Content\\adminStyle.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{75250D9E-A400-42C0-8F73-E3C84C2500B8}|ClinicUI\\ClinicUI.csproj|solutionrelative:ClinicUI\\Content\\adminStyle.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75250D9E-A400-42C0-8F73-E3C84C2500B8}|ClinicUI\\ClinicUI.csproj|C:\\Users\\gasag\\OneDrive\\Desktop\\RLL\\DALLibrary\\DALLibrary\\ClinicUI\\Views\\Manager\\Deletefrontofficer.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{75250D9E-A400-42C0-8F73-E3C84C2500B8}|ClinicUI\\ClinicUI.csproj|solutionrelative:ClinicUI\\Views\\Manager\\Deletefrontofficer.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75250D9E-A400-42C0-8F73-E3C84C2500B8}|ClinicUI\\ClinicUI.csproj|C:\\Users\\gasag\\OneDrive\\Desktop\\RLL\\DALLibrary\\DALLibrary\\ClinicUI\\Content\\Site1.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{75250D9E-A400-42C0-8F73-E3C84C2500B8}|ClinicUI\\ClinicUI.csproj|solutionrelative:ClinicUI\\Content\\Site1.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75250D9E-A400-42C0-8F73-E3C84C2500B8}|ClinicUI\\ClinicUI.csproj|C:\\Users\\gasag\\OneDrive\\Desktop\\RLL\\DALLibrary\\DALLibrary\\ClinicUI\\Content\\Layout.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{75250D9E-A400-42C0-8F73-E3C84C2500B8}|ClinicUI\\ClinicUI.csproj|solutionrelative:ClinicUI\\Content\\Layout.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75250D9E-A400-42C0-8F73-E3C84C2500B8}|ClinicUI\\ClinicUI.csproj|C:\\Users\\gasag\\OneDrive\\Desktop\\RLL\\DALLibrary\\DALLibrary\\ClinicUI\\Views\\Shared\\_Layout_Manager_Front_Officer.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{75250D9E-A400-42C0-8F73-E3C84C2500B8}|ClinicUI\\ClinicUI.csproj|solutionrelative:ClinicUI\\Views\\Shared\\_Layout_Manager_Front_Officer.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75250D9E-A400-42C0-8F73-E3C84C2500B8}|ClinicUI\\ClinicUI.csproj|C:\\Users\\gasag\\OneDrive\\Desktop\\RLL\\DALLibrary\\DALLibrary\\ClinicUI\\Views\\Shared\\_Layout_Manager_Pharmacist.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{75250D9E-A400-42C0-8F73-E3C84C2500B8}|ClinicUI\\ClinicUI.csproj|solutionrelative:ClinicUI\\Views\\Shared\\_Layout_Manager_Pharmacist.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75250D9E-A400-42C0-8F73-E3C84C2500B8}|ClinicUI\\ClinicUI.csproj|C:\\Users\\gasag\\OneDrive\\Desktop\\RLL\\DALLibrary\\DALLibrary\\ClinicUI\\Views\\Shared\\_Layout_Manager_Doc.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{75250D9E-A400-42C0-8F73-E3C84C2500B8}|ClinicUI\\ClinicUI.csproj|solutionrelative:ClinicUI\\Views\\Shared\\_Layout_Manager_Doc.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75250D9E-A400-42C0-8F73-E3C84C2500B8}|ClinicUI\\ClinicUI.csproj|C:\\Users\\gasag\\OneDrive\\Desktop\\RLL\\DALLibrary\\DALLibrary\\ClinicUI\\Content\\MessageStyle.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{75250D9E-A400-42C0-8F73-E3C84C2500B8}|ClinicUI\\ClinicUI.csproj|solutionrelative:ClinicUI\\Content\\MessageStyle.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75250D9E-A400-42C0-8F73-E3C84C2500B8}|ClinicUI\\ClinicUI.csproj|C:\\Users\\gasag\\OneDrive\\Desktop\\RLL\\DALLibrary\\DALLibrary\\ClinicUI\\Views\\Shared\\_Layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{75250D9E-A400-42C0-8F73-E3C84C2500B8}|ClinicUI\\ClinicUI.csproj|solutionrelative:ClinicUI\\Views\\Shared\\_Layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 15,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{c9c0ae26-aa77-11d2-b3f0-0000f87570ee}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MedicinesApiController.cs",
+              "DocumentMoniker": "C:\\Users\\gasag\\OneDrive\\Desktop\\RLL\\DALLibrary\\DALLibrary\\ClinicApi\\Controllers\\MedicinesApiController.cs",
+              "RelativeDocumentMoniker": "ClinicApi\\Controllers\\MedicinesApiController.cs",
+              "ToolTip": "C:\\Users\\gasag\\OneDrive\\Desktop\\RLL\\DALLibrary\\DALLibrary\\ClinicApi\\Controllers\\MedicinesApiController.cs",
+              "RelativeToolTip": "ClinicApi\\Controllers\\MedicinesApiController.cs",
+              "ViewState": "AQIAAC4AAAAAAAAAAAAkwEgAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-02T19:00:12.476Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PatientsApiController.cs",
+              "DocumentMoniker": "C:\\Users\\gasag\\OneDrive\\Desktop\\RLL\\DALLibrary\\DALLibrary\\ClinicApi\\Controllers\\PatientsApiController.cs",
+              "RelativeDocumentMoniker": "ClinicApi\\Controllers\\PatientsApiController.cs",
+              "ToolTip": "C:\\Users\\gasag\\OneDrive\\Desktop\\RLL\\DALLibrary\\DALLibrary\\ClinicApi\\Controllers\\PatientsApiController.cs",
+              "RelativeToolTip": "ClinicApi\\Controllers\\PatientsApiController.cs",
+              "ViewState": "AQIAAEIAAAAAAAAAAAAowEcAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-02T19:00:12.473Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PharmacistApiController.cs",
+              "DocumentMoniker": "C:\\Users\\gasag\\OneDrive\\Desktop\\RLL\\DALLibrary\\DALLibrary\\ClinicApi\\Controllers\\PharmacistApiController.cs",
+              "RelativeDocumentMoniker": "ClinicApi\\Controllers\\PharmacistApiController.cs",
+              "ToolTip": "C:\\Users\\gasag\\OneDrive\\Desktop\\RLL\\DALLibrary\\DALLibrary\\ClinicApi\\Controllers\\PharmacistApiController.cs",
+              "RelativeToolTip": "ClinicApi\\Controllers\\PharmacistApiController.cs",
+              "ViewState": "AQIAAD8AAAAAAAAAAAAowEkAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-02T19:00:12.47Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DoctorController.cs",
+              "DocumentMoniker": "C:\\Users\\gasag\\OneDrive\\Desktop\\RLL\\DALLibrary\\DALLibrary\\ClinicUI\\Controllers\\DoctorController.cs",
+              "RelativeDocumentMoniker": "ClinicUI\\Controllers\\DoctorController.cs",
+              "ToolTip": "C:\\Users\\gasag\\OneDrive\\Desktop\\RLL\\DALLibrary\\DALLibrary\\ClinicUI\\Controllers\\DoctorController.cs",
+              "RelativeToolTip": "ClinicUI\\Controllers\\DoctorController.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAIAxwBgAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-09T07:39:30.198Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Service.cs",
+              "DocumentMoniker": "C:\\Users\\gasag\\OneDrive\\Desktop\\RLL\\DALLibrary\\DALLibrary\\ClinicApi\\Models\\Service.cs",
+              "RelativeDocumentMoniker": "ClinicApi\\Models\\Service.cs",
+              "ToolTip": "C:\\Users\\gasag\\OneDrive\\Desktop\\RLL\\DALLibrary\\DALLibrary\\ClinicApi\\Models\\Service.cs",
+              "RelativeToolTip": "ClinicApi\\Models\\Service.cs",
+              "ViewState": "AQIAAJEAAAAAAAAAAADwv0oAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-02T19:00:12.72Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Front_OfficerCRUD.cs",
+              "DocumentMoniker": "C:\\Users\\gasag\\OneDrive\\Desktop\\RLL\\DALLibrary\\DALLibrary\\DALLibrary\\CRUD\\Front_OfficerCRUD.cs",
+              "RelativeDocumentMoniker": "DALLibrary\\CRUD\\Front_OfficerCRUD.cs",
+              "ToolTip": "C:\\Users\\gasag\\OneDrive\\Desktop\\RLL\\DALLibrary\\DALLibrary\\DALLibrary\\CRUD\\Front_OfficerCRUD.cs",
+              "RelativeToolTip": "DALLibrary\\CRUD\\Front_OfficerCRUD.cs",
+              "ViewState": "AQIAAEcAAAAAAAAAAAAewCMAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-02T19:00:12.778Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Front_Officer.cs",
+              "DocumentMoniker": "C:\\Users\\gasag\\OneDrive\\Desktop\\RLL\\DALLibrary\\DALLibrary\\DALLibrary\\Domain_Classes\\Front_Officer.cs",
+              "RelativeDocumentMoniker": "DALLibrary\\Domain_Classes\\Front_Officer.cs",
+              "ToolTip": "C:\\Users\\gasag\\OneDrive\\Desktop\\RLL\\DALLibrary\\DALLibrary\\DALLibrary\\Domain_Classes\\Front_Officer.cs",
+              "RelativeToolTip": "DALLibrary\\Domain_Classes\\Front_Officer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAkAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-02T19:00:12.764Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "DoctorController.cs",
+              "DocumentMoniker": "C:\\Users\\gasag\\OneDrive\\Desktop\\RLL\\DALLibrary\\DALLibrary\\ClinicApi\\Controllers\\DoctorController.cs",
+              "RelativeDocumentMoniker": "ClinicApi\\Controllers\\DoctorController.cs",
+              "ToolTip": "C:\\Users\\gasag\\OneDrive\\Desktop\\RLL\\DALLibrary\\DALLibrary\\ClinicApi\\Controllers\\DoctorController.cs",
+              "RelativeToolTip": "ClinicApi\\Controllers\\DoctorController.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABQAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-02T19:00:12.482Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Front_OfficerController.cs",
+              "DocumentMoniker": "C:\\Users\\gasag\\OneDrive\\Desktop\\RLL\\DALLibrary\\DALLibrary\\ClinicApi\\Controllers\\Front_OfficerController.cs",
+              "RelativeDocumentMoniker": "ClinicApi\\Controllers\\Front_OfficerController.cs",
+              "ToolTip": "C:\\Users\\gasag\\OneDrive\\Desktop\\RLL\\DALLibrary\\DALLibrary\\ClinicApi\\Controllers\\Front_OfficerController.cs",
+              "RelativeToolTip": "ClinicApi\\Controllers\\Front_OfficerController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-02T19:00:12.48Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "FrontOfficerController.cs",
+              "DocumentMoniker": "C:\\Users\\gasag\\OneDrive\\Desktop\\RLL\\DALLibrary\\DALLibrary\\ClinicUI\\Controllers\\FrontOfficerController.cs",
+              "RelativeDocumentMoniker": "ClinicUI\\Controllers\\FrontOfficerController.cs",
+              "ToolTip": "C:\\Users\\gasag\\OneDrive\\Desktop\\RLL\\DALLibrary\\DALLibrary\\ClinicUI\\Controllers\\FrontOfficerController.cs",
+              "RelativeToolTip": "ClinicUI\\Controllers\\FrontOfficerController.cs",
+              "ViewState": "AQIAAF0AAAAAAAAAAAAIwAwAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-03T05:23:31.151Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ManagerController.cs",
+              "DocumentMoniker": "C:\\Users\\gasag\\OneDrive\\Desktop\\RLL\\DALLibrary\\DALLibrary\\ClinicUI\\Controllers\\ManagerController.cs",
+              "RelativeDocumentMoniker": "ClinicUI\\Controllers\\ManagerController.cs",
+              "ToolTip": "C:\\Users\\gasag\\OneDrive\\Desktop\\RLL\\DALLibrary\\DALLibrary\\ClinicUI\\Controllers\\ManagerController.cs",
+              "RelativeToolTip": "ClinicUI\\Controllers\\ManagerController.cs",
+              "ViewState": "AQIAAHoAAAAAAAAAAAAmwHwAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-09T07:39:30.876Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "DoctorCRUD.cs",
+              "DocumentMoniker": "C:\\Users\\gasag\\OneDrive\\Desktop\\RLL\\DALLibrary\\DALLibrary\\DALLibrary\\CRUD\\DoctorCRUD.cs",
+              "RelativeDocumentMoniker": "DALLibrary\\CRUD\\DoctorCRUD.cs",
+              "ToolTip": "C:\\Users\\gasag\\OneDrive\\Desktop\\RLL\\DALLibrary\\DALLibrary\\DALLibrary\\CRUD\\DoctorCRUD.cs",
+              "RelativeToolTip": "DALLibrary\\CRUD\\DoctorCRUD.cs",
+              "ViewState": "AQIAACYAAAAAAAAAAAAlwCAAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-02T19:00:12.458Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ClinicDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\gasag\\OneDrive\\Desktop\\RLL\\DALLibrary\\DALLibrary\\DALLibrary\\Data\\ClinicDbContext.cs",
+              "RelativeDocumentMoniker": "DALLibrary\\Data\\ClinicDbContext.cs",
+              "ToolTip": "C:\\Users\\gasag\\OneDrive\\Desktop\\RLL\\DALLibrary\\DALLibrary\\DALLibrary\\Data\\ClinicDbContext.cs",
+              "RelativeToolTip": "DALLibrary\\Data\\ClinicDbContext.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAIAwwBMAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-02T19:00:12.846Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "AppointmentCRUD.cs",
+              "DocumentMoniker": "C:\\Users\\gasag\\OneDrive\\Desktop\\RLL\\DALLibrary\\DALLibrary\\DALLibrary\\CRUD\\AppointmentCRUD.cs",
+              "RelativeDocumentMoniker": "DALLibrary\\CRUD\\AppointmentCRUD.cs",
+              "ToolTip": "C:\\Users\\gasag\\OneDrive\\Desktop\\RLL\\DALLibrary\\DALLibrary\\DALLibrary\\CRUD\\AppointmentCRUD.cs",
+              "RelativeToolTip": "DALLibrary\\CRUD\\AppointmentCRUD.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAxwDAAAABdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-02T19:00:12.556Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "LoginController.cs",
+              "DocumentMoniker": "C:\\Users\\gasag\\OneDrive\\Desktop\\RLL\\DALLibrary\\DALLibrary\\ClinicUI\\Controllers\\LoginController.cs",
+              "RelativeDocumentMoniker": "ClinicUI\\Controllers\\LoginController.cs",
+              "ToolTip": "C:\\Users\\gasag\\OneDrive\\Desktop\\RLL\\DALLibrary\\DALLibrary\\ClinicUI\\Controllers\\LoginController.cs",
+              "RelativeToolTip": "ClinicUI\\Controllers\\LoginController.cs",
+              "ViewState": "AQIAAFMAAAAAAAAAAAASwF0AAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-09T07:39:30.988Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "PatientsController.cs",
+              "DocumentMoniker": "C:\\Users\\gasag\\OneDrive\\Desktop\\RLL\\DALLibrary\\DALLibrary\\ClinicUI\\Controllers\\PatientsController.cs",
+              "RelativeDocumentMoniker": "ClinicUI\\Controllers\\PatientsController.cs",
+              "ToolTip": "C:\\Users\\gasag\\OneDrive\\Desktop\\RLL\\DALLibrary\\DALLibrary\\ClinicUI\\Controllers\\PatientsController.cs",
+              "RelativeToolTip": "ClinicUI\\Controllers\\PatientsController.cs",
+              "ViewState": "AQIAAIkAAAAAAAAAAAAUwLsAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-09T07:39:30.856Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "PatientCRUD.cs",
+              "DocumentMoniker": "C:\\Users\\gasag\\OneDrive\\Desktop\\RLL\\DALLibrary\\DALLibrary\\DALLibrary\\CRUD\\PatientCRUD.cs",
+              "RelativeDocumentMoniker": "DALLibrary\\CRUD\\PatientCRUD.cs",
+              "ToolTip": "C:\\Users\\gasag\\OneDrive\\Desktop\\RLL\\DALLibrary\\DALLibrary\\DALLibrary\\CRUD\\PatientCRUD.cs",
+              "RelativeToolTip": "DALLibrary\\CRUD\\PatientCRUD.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAD4vxYAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-02T19:00:12.727Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "UpdateProfile.cshtml",
+              "DocumentMoniker": "C:\\Users\\gasag\\OneDrive\\Desktop\\RLL\\DALLibrary\\DALLibrary\\ClinicUI\\Views\\Doctor\\UpdateProfile.cshtml",
+              "RelativeDocumentMoniker": "ClinicUI\\Views\\Doctor\\UpdateProfile.cshtml",
+              "ToolTip": "C:\\Users\\gasag\\OneDrive\\Desktop\\RLL\\DALLibrary\\DALLibrary\\ClinicUI\\Views\\Doctor\\UpdateProfile.cshtml",
+              "RelativeToolTip": "ClinicUI\\Views\\Doctor\\UpdateProfile.cshtml",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABwAAACaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-09T07:39:31.187Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Appointment.cs",
+              "DocumentMoniker": "C:\\Users\\gasag\\OneDrive\\Desktop\\RLL\\DALLibrary\\DALLibrary\\DALLibrary\\Domain_Classes\\Appointment.cs",
+              "RelativeDocumentMoniker": "DALLibrary\\Domain_Classes\\Appointment.cs",
+              "ToolTip": "C:\\Users\\gasag\\OneDrive\\Desktop\\RLL\\DALLibrary\\DALLibrary\\DALLibrary\\Domain_Classes\\Appointment.cs",
+              "RelativeToolTip": "DALLibrary\\Domain_Classes\\Appointment.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAqwBUAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-02T19:00:10.161Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "App.config",
+              "DocumentMoniker": "C:\\Users\\gasag\\OneDrive\\Desktop\\RLL\\DALLibrary\\DALLibrary\\DALLibrary\\App.config",
+              "RelativeDocumentMoniker": "DALLibrary\\App.config",
+              "ToolTip": "C:\\Users\\gasag\\OneDrive\\Desktop\\RLL\\DALLibrary\\DALLibrary\\DALLibrary\\App.config",
+              "RelativeToolTip": "DALLibrary\\App.config",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAA0AAABXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-02-02T19:00:12.766Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "BookOp.cshtml",
+              "DocumentMoniker": "C:\\Users\\gasag\\OneDrive\\Desktop\\RLL\\DALLibrary\\DALLibrary\\ClinicUI\\Views\\Patients\\BookOp.cshtml",
+              "RelativeDocumentMoniker": "ClinicUI\\Views\\Patients\\BookOp.cshtml",
+              "ToolTip": "C:\\Users\\gasag\\OneDrive\\Desktop\\RLL\\DALLibrary\\DALLibrary\\ClinicUI\\Views\\Patients\\BookOp.cshtml",
+              "RelativeToolTip": "ClinicUI\\Views\\Patients\\BookOp.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-09T07:39:30.957Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "PatientLogin.cshtml",
+              "DocumentMoniker": "C:\\Users\\gasag\\OneDrive\\Desktop\\RLL\\DALLibrary\\DALLibrary\\ClinicUI\\Views\\Login\\PatientLogin.cshtml",
+              "RelativeDocumentMoniker": "ClinicUI\\Views\\Login\\PatientLogin.cshtml",
+              "ToolTip": "C:\\Users\\gasag\\OneDrive\\Desktop\\RLL\\DALLibrary\\DALLibrary\\ClinicUI\\Views\\Login\\PatientLogin.cshtml",
+              "RelativeToolTip": "ClinicUI\\Views\\Login\\PatientLogin.cshtml",
+              "ViewState": "AQIAAEIAAAAAAAAAAAAAADoAAABAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-09T07:39:30.969Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Patient.cs",
+              "DocumentMoniker": "C:\\Users\\gasag\\OneDrive\\Desktop\\RLL\\DALLibrary\\DALLibrary\\DALLibrary\\Domain_Classes\\Patient.cs",
+              "RelativeDocumentMoniker": "DALLibrary\\Domain_Classes\\Patient.cs",
+              "ToolTip": "C:\\Users\\gasag\\OneDrive\\Desktop\\RLL\\DALLibrary\\DALLibrary\\DALLibrary\\Domain_Classes\\Patient.cs",
+              "RelativeToolTip": "DALLibrary\\Domain_Classes\\Patient.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwB4AAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-02T19:00:12.804Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Doctor.cs",
+              "DocumentMoniker": "C:\\Users\\gasag\\OneDrive\\Desktop\\RLL\\DALLibrary\\DALLibrary\\DALLibrary\\Domain_Classes\\Doctor.cs",
+              "RelativeDocumentMoniker": "DALLibrary\\Domain_Classes\\Doctor.cs",
+              "ToolTip": "C:\\Users\\gasag\\OneDrive\\Desktop\\RLL\\DALLibrary\\DALLibrary\\DALLibrary\\Domain_Classes\\Doctor.cs",
+              "RelativeToolTip": "DALLibrary\\Domain_Classes\\Doctor.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAA8AAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-02T19:00:10.154Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "CreateDoctors.cshtml",
+              "DocumentMoniker": "C:\\Users\\gasag\\OneDrive\\Desktop\\RLL\\DALLibrary\\DALLibrary\\ClinicUI\\Views\\Manager\\CreateDoctors.cshtml",
+              "RelativeDocumentMoniker": "ClinicUI\\Views\\Manager\\CreateDoctors.cshtml",
+              "ToolTip": "C:\\Users\\gasag\\OneDrive\\Desktop\\RLL\\DALLibrary\\DALLibrary\\ClinicUI\\Views\\Manager\\CreateDoctors.cshtml",
+              "RelativeToolTip": "ClinicUI\\Views\\Manager\\CreateDoctors.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-09T07:39:30.413Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "DisplayPatients.cshtml",
+              "DocumentMoniker": "C:\\Users\\gasag\\OneDrive\\Desktop\\RLL\\DALLibrary\\DALLibrary\\ClinicUI\\Views\\Manager\\DisplayPatients.cshtml",
+              "RelativeDocumentMoniker": "ClinicUI\\Views\\Manager\\DisplayPatients.cshtml",
+              "ToolTip": "C:\\Users\\gasag\\OneDrive\\Desktop\\RLL\\DALLibrary\\DALLibrary\\ClinicUI\\Views\\Manager\\DisplayPatients.cshtml",
+              "RelativeToolTip": "ClinicUI\\Views\\Manager\\DisplayPatients.cshtml",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAABwAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-09T07:39:30.808Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "SearchScript.js",
+              "DocumentMoniker": "C:\\Users\\gasag\\OneDrive\\Desktop\\RLL\\DALLibrary\\DALLibrary\\ClinicUI\\Content\\SearchScript.js",
+              "RelativeDocumentMoniker": "ClinicUI\\Content\\SearchScript.js",
+              "ToolTip": "C:\\Users\\gasag\\OneDrive\\Desktop\\RLL\\DALLibrary\\DALLibrary\\ClinicUI\\Content\\SearchScript.js",
+              "RelativeToolTip": "ClinicUI\\Content\\SearchScript.js",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-08-09T07:39:30.817Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "ViewAppointments.cshtml",
+              "DocumentMoniker": "C:\\Users\\gasag\\OneDrive\\Desktop\\RLL\\DALLibrary\\DALLibrary\\ClinicUI\\Views\\Patients\\ViewAppointments.cshtml",
+              "RelativeDocumentMoniker": "ClinicUI\\Views\\Patients\\ViewAppointments.cshtml",
+              "ToolTip": "C:\\Users\\gasag\\OneDrive\\Desktop\\RLL\\DALLibrary\\DALLibrary\\ClinicUI\\Views\\Patients\\ViewAppointments.cshtml",
+              "RelativeToolTip": "ClinicUI\\Views\\Patients\\ViewAppointments.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-09T07:39:30.825Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "ViewMedicine.cshtml",
+              "DocumentMoniker": "C:\\Users\\gasag\\OneDrive\\Desktop\\RLL\\DALLibrary\\DALLibrary\\ClinicUI\\Views\\Patients\\ViewMedicine.cshtml",
+              "RelativeDocumentMoniker": "ClinicUI\\Views\\Patients\\ViewMedicine.cshtml",
+              "ToolTip": "C:\\Users\\gasag\\OneDrive\\Desktop\\RLL\\DALLibrary\\DALLibrary\\ClinicUI\\Views\\Patients\\ViewMedicine.cshtml",
+              "RelativeToolTip": "ClinicUI\\Views\\Patients\\ViewMedicine.cshtml",
+              "ViewState": "AQIAABsAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-09T07:39:30.833Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "ClinicTestProject.csproj",
+              "DocumentMoniker": "C:\\Users\\gasag\\OneDrive\\Desktop\\RLL\\DALLibrary\\DALLibrary\\ClinicTestProject\\ClinicTestProject.csproj",
+              "RelativeDocumentMoniker": "ClinicTestProject\\ClinicTestProject.csproj",
+              "ToolTip": "C:\\Users\\gasag\\OneDrive\\Desktop\\RLL\\DALLibrary\\DALLibrary\\ClinicTestProject\\ClinicTestProject.csproj",
+              "RelativeToolTip": "ClinicTestProject\\ClinicTestProject.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-08-09T07:39:30.84Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "C:\\Users\\gasag\\OneDrive\\Desktop\\RLL\\DALLibrary\\DALLibrary\\ClinicTestProject\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "ClinicTestProject\\UnitTest1.cs",
+              "ToolTip": "C:\\Users\\gasag\\OneDrive\\Desktop\\RLL\\DALLibrary\\DALLibrary\\ClinicTestProject\\UnitTest1.cs",
+              "RelativeToolTip": "ClinicTestProject\\UnitTest1.cs",
+              "ViewState": "AQIAAF4BAAAAAAAAAAAmwCsAAAB0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-09T07:39:30.847Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "UpdatePatient.cshtml",
+              "DocumentMoniker": "C:\\Users\\gasag\\OneDrive\\Desktop\\RLL\\DALLibrary\\DALLibrary\\ClinicUI\\Views\\Patients\\UpdatePatient.cshtml",
+              "RelativeDocumentMoniker": "ClinicUI\\Views\\Patients\\UpdatePatient.cshtml",
+              "ToolTip": "C:\\Users\\gasag\\OneDrive\\Desktop\\RLL\\DALLibrary\\DALLibrary\\ClinicUI\\Views\\Patients\\UpdatePatient.cshtml",
+              "RelativeToolTip": "ClinicUI\\Views\\Patients\\UpdatePatient.cshtml",
+              "ViewState": "AQIAADUAAAAAAAAAAAAkwBcAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-09T07:39:30.865Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "_Layout_Patient.cshtml",
+              "DocumentMoniker": "C:\\Users\\gasag\\OneDrive\\Desktop\\RLL\\DALLibrary\\DALLibrary\\ClinicUI\\Views\\Shared\\_Layout_Patient.cshtml",
+              "RelativeDocumentMoniker": "ClinicUI\\Views\\Shared\\_Layout_Patient.cshtml",
+              "ToolTip": "C:\\Users\\gasag\\OneDrive\\Desktop\\RLL\\DALLibrary\\DALLibrary\\ClinicUI\\Views\\Shared\\_Layout_Patient.cshtml",
+              "RelativeToolTip": "ClinicUI\\Views\\Shared\\_Layout_Patient.cshtml",
+              "ViewState": "AQIAAHIAAAAAAAAAAAAAAGQAAABCAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-09T07:39:30.885Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "Createfrontofficer.cshtml",
+              "DocumentMoniker": "C:\\Users\\gasag\\OneDrive\\Desktop\\RLL\\DALLibrary\\DALLibrary\\ClinicUI\\Views\\Manager\\Createfrontofficer.cshtml",
+              "RelativeDocumentMoniker": "ClinicUI\\Views\\Manager\\Createfrontofficer.cshtml",
+              "ToolTip": "C:\\Users\\gasag\\OneDrive\\Desktop\\RLL\\DALLibrary\\DALLibrary\\ClinicUI\\Views\\Manager\\Createfrontofficer.cshtml",
+              "RelativeToolTip": "ClinicUI\\Views\\Manager\\Createfrontofficer.cshtml",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAAB4AAAA/AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-09T07:39:30.892Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "GlobalUsings.cs",
+              "DocumentMoniker": "C:\\Users\\gasag\\OneDrive\\Desktop\\RLL\\DALLibrary\\DALLibrary\\ClinicTestProject\\GlobalUsings.cs",
+              "RelativeDocumentMoniker": "ClinicTestProject\\GlobalUsings.cs",
+              "ToolTip": "C:\\Users\\gasag\\OneDrive\\Desktop\\RLL\\DALLibrary\\DALLibrary\\ClinicTestProject\\GlobalUsings.cs",
+              "RelativeToolTip": "ClinicTestProject\\GlobalUsings.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-09T07:39:30.901Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "Displayfrontofficer.cshtml",
+              "DocumentMoniker": "C:\\Users\\gasag\\OneDrive\\Desktop\\RLL\\DALLibrary\\DALLibrary\\ClinicUI\\Views\\Manager\\Displayfrontofficer.cshtml",
+              "RelativeDocumentMoniker": "ClinicUI\\Views\\Manager\\Displayfrontofficer.cshtml",
+              "ToolTip": "C:\\Users\\gasag\\OneDrive\\Desktop\\RLL\\DALLibrary\\DALLibrary\\ClinicUI\\Views\\Manager\\Displayfrontofficer.cshtml",
+              "RelativeToolTip": "ClinicUI\\Views\\Manager\\Displayfrontofficer.cshtml",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAAB4AAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-09T07:39:30.91Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "ViewAppointment.cshtml",
+              "DocumentMoniker": "C:\\Users\\gasag\\OneDrive\\Desktop\\RLL\\DALLibrary\\DALLibrary\\ClinicUI\\Views\\FrontOfficer\\ViewAppointment.cshtml",
+              "RelativeDocumentMoniker": "ClinicUI\\Views\\FrontOfficer\\ViewAppointment.cshtml",
+              "ToolTip": "C:\\Users\\gasag\\OneDrive\\Desktop\\RLL\\DALLibrary\\DALLibrary\\ClinicUI\\Views\\FrontOfficer\\ViewAppointment.cshtml",
+              "RelativeToolTip": "ClinicUI\\Views\\FrontOfficer\\ViewAppointment.cshtml",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAIwAwAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-09T07:39:30.929Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "ClinicTestProject",
+              "DocumentMoniker": "C:\\Users\\gasag\\OneDrive\\Desktop\\RLL\\DALLibrary\\DALLibrary\\ClinicTestProject\\ClinicTestProject.csproj",
+              "RelativeDocumentMoniker": "ClinicTestProject\\ClinicTestProject.csproj",
+              "ToolTip": "C:\\Users\\gasag\\OneDrive\\Desktop\\RLL\\DALLibrary\\DALLibrary\\ClinicTestProject\\ClinicTestProject.csproj",
+              "RelativeToolTip": "ClinicTestProject\\ClinicTestProject.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-08-09T07:39:30.937Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "GetAllDoc.cshtml",
+              "DocumentMoniker": "C:\\Users\\gasag\\OneDrive\\Desktop\\RLL\\DALLibrary\\DALLibrary\\ClinicUI\\Views\\Patients\\GetAllDoc.cshtml",
+              "RelativeDocumentMoniker": "ClinicUI\\Views\\Patients\\GetAllDoc.cshtml",
+              "ToolTip": "C:\\Users\\gasag\\OneDrive\\Desktop\\RLL\\DALLibrary\\DALLibrary\\ClinicUI\\Views\\Patients\\GetAllDoc.cshtml",
+              "RelativeToolTip": "ClinicUI\\Views\\Patients\\GetAllDoc.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-09T07:39:30.948Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "RouteConfig.cs",
+              "DocumentMoniker": "C:\\Users\\gasag\\OneDrive\\Desktop\\RLL\\DALLibrary\\DALLibrary\\ClinicUI\\App_Start\\RouteConfig.cs",
+              "RelativeDocumentMoniker": "ClinicUI\\App_Start\\RouteConfig.cs",
+              "ToolTip": "C:\\Users\\gasag\\OneDrive\\Desktop\\RLL\\DALLibrary\\DALLibrary\\ClinicUI\\App_Start\\RouteConfig.cs",
+              "RelativeToolTip": "ClinicUI\\App_Start\\RouteConfig.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAABFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-09T07:39:30.978Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "ResetPasswordController.cs",
+              "DocumentMoniker": "C:\\Users\\gasag\\OneDrive\\Desktop\\RLL\\DALLibrary\\DALLibrary\\ClinicUI\\Controllers\\ResetPasswordController.cs",
+              "RelativeDocumentMoniker": "ClinicUI\\Controllers\\ResetPasswordController.cs",
+              "ToolTip": "C:\\Users\\gasag\\OneDrive\\Desktop\\RLL\\DALLibrary\\DALLibrary\\ClinicUI\\Controllers\\ResetPasswordController.cs",
+              "RelativeToolTip": "ClinicUI\\Controllers\\ResetPasswordController.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAQwCgAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-09T07:39:30.999Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "RegisterPatient.cshtml",
+              "DocumentMoniker": "C:\\Users\\gasag\\OneDrive\\Desktop\\RLL\\DALLibrary\\DALLibrary\\ClinicUI\\Views\\Patients\\RegisterPatient.cshtml",
+              "RelativeDocumentMoniker": "ClinicUI\\Views\\Patients\\RegisterPatient.cshtml",
+              "ToolTip": "C:\\Users\\gasag\\OneDrive\\Desktop\\RLL\\DALLibrary\\DALLibrary\\ClinicUI\\Views\\Patients\\RegisterPatient.cshtml",
+              "RelativeToolTip": "ClinicUI\\Views\\Patients\\RegisterPatient.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-09T07:39:31.009Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\gasag\\OneDrive\\Desktop\\RLL\\DALLibrary\\DALLibrary\\ClinicUI\\Views\\Login\\Index.cshtml",
+              "RelativeDocumentMoniker": "ClinicUI\\Views\\Login\\Index.cshtml",
+              "ToolTip": "C:\\Users\\gasag\\OneDrive\\Desktop\\RLL\\DALLibrary\\DALLibrary\\ClinicUI\\Views\\Login\\Index.cshtml",
+              "RelativeToolTip": "ClinicUI\\Views\\Login\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADwAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-09T07:39:31.019Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 57,
+              "Title": "Register.css",
+              "DocumentMoniker": "C:\\Users\\gasag\\OneDrive\\Desktop\\RLL\\DALLibrary\\DALLibrary\\ClinicUI\\Content\\Register.css",
+              "RelativeDocumentMoniker": "ClinicUI\\Content\\Register.css",
+              "ToolTip": "C:\\Users\\gasag\\OneDrive\\Desktop\\RLL\\DALLibrary\\DALLibrary\\ClinicUI\\Content\\Register.css",
+              "RelativeToolTip": "ClinicUI\\Content\\Register.css",
+              "ViewState": "AQIAANIAAAAAAAAAAAAIwOEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-08-09T07:39:31.028Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 58,
+              "Title": "Home.css",
+              "DocumentMoniker": "C:\\Users\\gasag\\OneDrive\\Desktop\\RLL\\DALLibrary\\DALLibrary\\ClinicUI\\Content\\Home.css",
+              "RelativeDocumentMoniker": "ClinicUI\\Content\\Home.css",
+              "ToolTip": "C:\\Users\\gasag\\OneDrive\\Desktop\\RLL\\DALLibrary\\DALLibrary\\ClinicUI\\Content\\Home.css",
+              "RelativeToolTip": "ClinicUI\\Content\\Home.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-08-09T07:39:31.04Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 59,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\gasag\\OneDrive\\Desktop\\RLL\\DALLibrary\\DALLibrary\\ClinicUI\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "ClinicUI\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\gasag\\OneDrive\\Desktop\\RLL\\DALLibrary\\DALLibrary\\ClinicUI\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "ClinicUI\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-09T07:39:31.05Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 60,
+              "Title": "AdminLogin.cshtml",
+              "DocumentMoniker": "C:\\Users\\gasag\\OneDrive\\Desktop\\RLL\\DALLibrary\\DALLibrary\\ClinicUI\\Views\\Login\\AdminLogin.cshtml",
+              "RelativeDocumentMoniker": "ClinicUI\\Views\\Login\\AdminLogin.cshtml",
+              "ToolTip": "C:\\Users\\gasag\\OneDrive\\Desktop\\RLL\\DALLibrary\\DALLibrary\\ClinicUI\\Views\\Login\\AdminLogin.cshtml",
+              "RelativeToolTip": "ClinicUI\\Views\\Login\\AdminLogin.cshtml",
+              "ViewState": "AQIAACQAAAAAAAAAAAAAAAEAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-09T07:39:31.059Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 61,
+              "Title": "Web.config",
+              "DocumentMoniker": "C:\\Users\\gasag\\OneDrive\\Desktop\\RLL\\DALLibrary\\DALLibrary\\ClinicUI\\Web.config",
+              "RelativeDocumentMoniker": "ClinicUI\\Web.config",
+              "ToolTip": "C:\\Users\\gasag\\OneDrive\\Desktop\\RLL\\DALLibrary\\DALLibrary\\ClinicUI\\Web.config",
+              "RelativeToolTip": "ClinicUI\\Web.config",
+              "ViewState": "AQIAADQAAAAAAAAAAAAAAD8AAABZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-08-09T07:39:31.067Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "202402021905489_firstmig.cs",
+              "DocumentMoniker": "C:\\Users\\gasag\\OneDrive\\Desktop\\RLL\\DALLibrary\\DALLibrary\\DALLibrary\\Migrations\\202402021905489_firstmig.cs",
+              "RelativeDocumentMoniker": "DALLibrary\\Migrations\\202402021905489_firstmig.cs",
+              "ToolTip": "C:\\Users\\gasag\\OneDrive\\Desktop\\RLL\\DALLibrary\\DALLibrary\\DALLibrary\\Migrations\\202402021905489_firstmig.cs",
+              "RelativeToolTip": "DALLibrary\\Migrations\\202402021905489_firstmig.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-02T19:06:03.872Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Configuration.cs",
+              "DocumentMoniker": "C:\\Users\\gasag\\OneDrive\\Desktop\\RLL\\DALLibrary\\DALLibrary\\DALLibrary\\Migrations\\Configuration.cs",
+              "RelativeDocumentMoniker": "DALLibrary\\Migrations\\Configuration.cs",
+              "ToolTip": "C:\\Users\\gasag\\OneDrive\\Desktop\\RLL\\DALLibrary\\DALLibrary\\DALLibrary\\Migrations\\Configuration.cs",
+              "RelativeToolTip": "DALLibrary\\Migrations\\Configuration.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAQwBIAAABcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-02T19:05:18.195Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 62,
+              "Title": "BookAppointment.cshtml",
+              "DocumentMoniker": "C:\\Users\\gasag\\OneDrive\\Desktop\\RLL\\DALLibrary\\DALLibrary\\ClinicUI\\Views\\FrontOfficer\\BookAppointment.cshtml",
+              "RelativeDocumentMoniker": "ClinicUI\\Views\\FrontOfficer\\BookAppointment.cshtml",
+              "ToolTip": "C:\\Users\\gasag\\OneDrive\\Desktop\\RLL\\DALLibrary\\DALLibrary\\ClinicUI\\Views\\FrontOfficer\\BookAppointment.cshtml",
+              "RelativeToolTip": "ClinicUI\\Views\\FrontOfficer\\BookAppointment.cshtml",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABMAAAC1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-09T07:39:31.1Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "ManagerCRUD.cs",
+              "DocumentMoniker": "C:\\Users\\gasag\\OneDrive\\Desktop\\RLL\\DALLibrary\\DALLibrary\\DALLibrary\\CRUD\\ManagerCRUD.cs",
+              "RelativeDocumentMoniker": "DALLibrary\\CRUD\\ManagerCRUD.cs",
+              "ToolTip": "C:\\Users\\gasag\\OneDrive\\Desktop\\RLL\\DALLibrary\\DALLibrary\\DALLibrary\\CRUD\\ManagerCRUD.cs",
+              "RelativeToolTip": "DALLibrary\\CRUD\\ManagerCRUD.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB4AAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-02T19:00:12.799Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 63,
+              "Title": "AddPatient.cshtml",
+              "DocumentMoniker": "C:\\Users\\gasag\\OneDrive\\Desktop\\RLL\\DALLibrary\\DALLibrary\\ClinicUI\\Views\\FrontOfficer\\AddPatient.cshtml",
+              "RelativeDocumentMoniker": "ClinicUI\\Views\\FrontOfficer\\AddPatient.cshtml",
+              "ToolTip": "C:\\Users\\gasag\\OneDrive\\Desktop\\RLL\\DALLibrary\\DALLibrary\\ClinicUI\\Views\\FrontOfficer\\AddPatient.cshtml",
+              "RelativeToolTip": "ClinicUI\\Views\\FrontOfficer\\AddPatient.cshtml",
+              "ViewState": "AQIAADAAAAAAAAAAAAAAAEAAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-09T07:39:31.114Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 64,
+              "Title": "MessagePatient.cshtml",
+              "DocumentMoniker": "C:\\Users\\gasag\\OneDrive\\Desktop\\RLL\\DALLibrary\\DALLibrary\\ClinicUI\\Views\\Doctor\\MessagePatient.cshtml",
+              "RelativeDocumentMoniker": "ClinicUI\\Views\\Doctor\\MessagePatient.cshtml",
+              "ToolTip": "C:\\Users\\gasag\\OneDrive\\Desktop\\RLL\\DALLibrary\\DALLibrary\\ClinicUI\\Views\\Doctor\\MessagePatient.cshtml",
+              "RelativeToolTip": "ClinicUI\\Views\\Doctor\\MessagePatient.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAA/AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-09T07:39:31.124Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "message.css",
+              "DocumentMoniker": "C:\\Users\\gasag\\OneDrive\\Desktop\\RLL\\DALLibrary\\DALLibrary\\ClinicApi\\Content\\message.css",
+              "RelativeDocumentMoniker": "ClinicApi\\Content\\message.css",
+              "ToolTip": "C:\\Users\\gasag\\OneDrive\\Desktop\\RLL\\DALLibrary\\DALLibrary\\ClinicApi\\Content\\message.css",
+              "RelativeToolTip": "ClinicApi\\Content\\message.css",
+              "ViewState": "AQIAAMEAAAAAAAAAAAAwwMIAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-02-02T20:06:59.364Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 65,
+              "Title": "MessageDoctor.cshtml",
+              "DocumentMoniker": "C:\\Users\\gasag\\OneDrive\\Desktop\\RLL\\DALLibrary\\DALLibrary\\ClinicUI\\Views\\Patients\\MessageDoctor.cshtml",
+              "RelativeDocumentMoniker": "ClinicUI\\Views\\Patients\\MessageDoctor.cshtml",
+              "ToolTip": "C:\\Users\\gasag\\OneDrive\\Desktop\\RLL\\DALLibrary\\DALLibrary\\ClinicUI\\Views\\Patients\\MessageDoctor.cshtml",
+              "RelativeToolTip": "ClinicUI\\Views\\Patients\\MessageDoctor.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAA/AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-09T07:39:31.135Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 66,
+              "Title": "ResetScript.js",
+              "DocumentMoniker": "C:\\Users\\gasag\\OneDrive\\Desktop\\RLL\\DALLibrary\\DALLibrary\\ClinicUI\\Content\\ResetScript.js",
+              "RelativeDocumentMoniker": "ClinicUI\\Content\\ResetScript.js",
+              "ToolTip": "C:\\Users\\gasag\\OneDrive\\Desktop\\RLL\\DALLibrary\\DALLibrary\\ClinicUI\\Content\\ResetScript.js",
+              "RelativeToolTip": "ClinicUI\\Content\\ResetScript.js",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB4AAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-08-09T07:39:31.146Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 67,
+              "Title": "packages.config",
+              "DocumentMoniker": "C:\\Users\\gasag\\OneDrive\\Desktop\\RLL\\DALLibrary\\DALLibrary\\ClinicUI\\packages.config",
+              "RelativeDocumentMoniker": "ClinicUI\\packages.config",
+              "ToolTip": "C:\\Users\\gasag\\OneDrive\\Desktop\\RLL\\DALLibrary\\DALLibrary\\ClinicUI\\packages.config",
+              "RelativeToolTip": "ClinicUI\\packages.config",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-08-09T07:39:31.154Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Web.config",
+              "DocumentMoniker": "C:\\Users\\gasag\\OneDrive\\Desktop\\RLL\\DALLibrary\\DALLibrary\\ClinicApi\\Web.config",
+              "RelativeDocumentMoniker": "ClinicApi\\Web.config",
+              "ToolTip": "C:\\Users\\gasag\\OneDrive\\Desktop\\RLL\\DALLibrary\\DALLibrary\\ClinicApi\\Web.config",
+              "RelativeToolTip": "ClinicApi\\Web.config",
+              "ViewState": "AQIAAEgAAAAAAAAAAAAAAEwAAABXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-02-02T19:00:12.853Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 68,
+              "Title": "PharmacistController.cs",
+              "DocumentMoniker": "C:\\Users\\gasag\\OneDrive\\Desktop\\RLL\\DALLibrary\\DALLibrary\\ClinicUI\\Controllers\\PharmacistController.cs",
+              "RelativeDocumentMoniker": "ClinicUI\\Controllers\\PharmacistController.cs",
+              "ToolTip": "C:\\Users\\gasag\\OneDrive\\Desktop\\RLL\\DALLibrary\\DALLibrary\\ClinicUI\\Controllers\\PharmacistController.cs",
+              "RelativeToolTip": "ClinicUI\\Controllers\\PharmacistController.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAAB4AAABBAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-09T07:39:31.163Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 69,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\gasag\\OneDrive\\Desktop\\RLL\\DALLibrary\\DALLibrary\\ClinicUI\\Views\\Pharmacist\\Edit.cshtml",
+              "RelativeDocumentMoniker": "ClinicUI\\Views\\Pharmacist\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\gasag\\OneDrive\\Desktop\\RLL\\DALLibrary\\DALLibrary\\ClinicUI\\Views\\Pharmacist\\Edit.cshtml",
+              "RelativeToolTip": "ClinicUI\\Views\\Pharmacist\\Edit.cshtml",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABQAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-09T07:39:31.17Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 70,
+              "Title": "UpdateInfo.cshtml",
+              "DocumentMoniker": "C:\\Users\\gasag\\OneDrive\\Desktop\\RLL\\DALLibrary\\DALLibrary\\ClinicUI\\Views\\Pharmacist\\UpdateInfo.cshtml",
+              "RelativeDocumentMoniker": "ClinicUI\\Views\\Pharmacist\\UpdateInfo.cshtml",
+              "ToolTip": "C:\\Users\\gasag\\OneDrive\\Desktop\\RLL\\DALLibrary\\DALLibrary\\ClinicUI\\Views\\Pharmacist\\UpdateInfo.cshtml",
+              "RelativeToolTip": "ClinicUI\\Views\\Pharmacist\\UpdateInfo.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB0AAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-09T07:39:31.178Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 71,
+              "Title": "MedicineList.cshtml",
+              "DocumentMoniker": "C:\\Users\\gasag\\OneDrive\\Desktop\\RLL\\DALLibrary\\DALLibrary\\ClinicUI\\Views\\Doctor\\MedicineList.cshtml",
+              "RelativeDocumentMoniker": "ClinicUI\\Views\\Doctor\\MedicineList.cshtml",
+              "ToolTip": "C:\\Users\\gasag\\OneDrive\\Desktop\\RLL\\DALLibrary\\DALLibrary\\ClinicUI\\Views\\Doctor\\MedicineList.cshtml",
+              "RelativeToolTip": "ClinicUI\\Views\\Doctor\\MedicineList.cshtml",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABUAAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-09T07:39:31.196Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 72,
+              "Title": "Inbox.css",
+              "DocumentMoniker": "C:\\Users\\gasag\\OneDrive\\Desktop\\RLL\\DALLibrary\\DALLibrary\\ClinicUI\\Scripts\\Inbox.css",
+              "RelativeDocumentMoniker": "ClinicUI\\Scripts\\Inbox.css",
+              "ToolTip": "C:\\Users\\gasag\\OneDrive\\Desktop\\RLL\\DALLibrary\\DALLibrary\\ClinicUI\\Scripts\\Inbox.css",
+              "RelativeToolTip": "ClinicUI\\Scripts\\Inbox.css",
+              "ViewState": "AQIAAOMAAAAAAAAAAAAAAAEBAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-08-09T07:39:31.209Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 73,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\gasag\\OneDrive\\Desktop\\RLL\\DALLibrary\\DALLibrary\\ClinicUI\\Views\\Manager\\Index.cshtml",
+              "RelativeDocumentMoniker": "ClinicUI\\Views\\Manager\\Index.cshtml",
+              "ToolTip": "C:\\Users\\gasag\\OneDrive\\Desktop\\RLL\\DALLibrary\\DALLibrary\\ClinicUI\\Views\\Manager\\Index.cshtml",
+              "RelativeToolTip": "ClinicUI\\Views\\Manager\\Index.cshtml",
+              "ViewState": "AQIAADYAAAAAAAAAAAAAAEUAAABzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-09T07:39:31.216Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 74,
+              "Title": "UpdatePatients.cshtml",
+              "DocumentMoniker": "C:\\Users\\gasag\\OneDrive\\Desktop\\RLL\\DALLibrary\\DALLibrary\\ClinicUI\\Views\\Manager\\UpdatePatients.cshtml",
+              "RelativeDocumentMoniker": "ClinicUI\\Views\\Manager\\UpdatePatients.cshtml",
+              "ToolTip": "C:\\Users\\gasag\\OneDrive\\Desktop\\RLL\\DALLibrary\\DALLibrary\\ClinicUI\\Views\\Manager\\UpdatePatients.cshtml",
+              "RelativeToolTip": "ClinicUI\\Views\\Manager\\UpdatePatients.cshtml",
+              "ViewState": "AQIAADIAAAAAAAAAAAAAAF8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-09T07:39:31.223Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 75,
+              "Title": "CreatePatients.cshtml",
+              "DocumentMoniker": "C:\\Users\\gasag\\OneDrive\\Desktop\\RLL\\DALLibrary\\DALLibrary\\ClinicUI\\Views\\Manager\\CreatePatients.cshtml",
+              "RelativeDocumentMoniker": "ClinicUI\\Views\\Manager\\CreatePatients.cshtml",
+              "ToolTip": "C:\\Users\\gasag\\OneDrive\\Desktop\\RLL\\DALLibrary\\DALLibrary\\ClinicUI\\Views\\Manager\\CreatePatients.cshtml",
+              "RelativeToolTip": "ClinicUI\\Views\\Manager\\CreatePatients.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADgAAABCAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-09T07:39:31.233Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 76,
+              "Title": "CreatePharmasicts.cshtml",
+              "DocumentMoniker": "C:\\Users\\gasag\\OneDrive\\Desktop\\RLL\\DALLibrary\\DALLibrary\\ClinicUI\\Views\\Manager\\CreatePharmasicts.cshtml",
+              "RelativeDocumentMoniker": "ClinicUI\\Views\\Manager\\CreatePharmasicts.cshtml",
+              "ToolTip": "C:\\Users\\gasag\\OneDrive\\Desktop\\RLL\\DALLibrary\\DALLibrary\\ClinicUI\\Views\\Manager\\CreatePharmasicts.cshtml",
+              "RelativeToolTip": "ClinicUI\\Views\\Manager\\CreatePharmasicts.cshtml",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAABcAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-09T07:39:31.241Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 77,
+              "Title": "UpdatePharmacist.cshtml",
+              "DocumentMoniker": "C:\\Users\\gasag\\OneDrive\\Desktop\\RLL\\DALLibrary\\DALLibrary\\ClinicUI\\Views\\Manager\\UpdatePharmacist.cshtml",
+              "RelativeDocumentMoniker": "ClinicUI\\Views\\Manager\\UpdatePharmacist.cshtml",
+              "ToolTip": "C:\\Users\\gasag\\OneDrive\\Desktop\\RLL\\DALLibrary\\DALLibrary\\ClinicUI\\Views\\Manager\\UpdatePharmacist.cshtml",
+              "RelativeToolTip": "ClinicUI\\Views\\Manager\\UpdatePharmacist.cshtml",
+              "ViewState": "AQIAABgAAAAAAAAAAAAAAAkAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-09T07:39:31.248Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 78,
+              "Title": "Updatemanager.cshtml",
+              "DocumentMoniker": "C:\\Users\\gasag\\OneDrive\\Desktop\\RLL\\DALLibrary\\DALLibrary\\ClinicUI\\Views\\Manager\\Updatemanager.cshtml",
+              "RelativeDocumentMoniker": "ClinicUI\\Views\\Manager\\Updatemanager.cshtml",
+              "ToolTip": "C:\\Users\\gasag\\OneDrive\\Desktop\\RLL\\DALLibrary\\DALLibrary\\ClinicUI\\Views\\Manager\\Updatemanager.cshtml",
+              "RelativeToolTip": "ClinicUI\\Views\\Manager\\Updatemanager.cshtml",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAB4AAACbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-09T07:39:31.258Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 79,
+              "Title": "Updatefrontofficer.cshtml",
+              "DocumentMoniker": "C:\\Users\\gasag\\OneDrive\\Desktop\\RLL\\DALLibrary\\DALLibrary\\ClinicUI\\Views\\Manager\\Updatefrontofficer.cshtml",
+              "RelativeDocumentMoniker": "ClinicUI\\Views\\Manager\\Updatefrontofficer.cshtml",
+              "ToolTip": "C:\\Users\\gasag\\OneDrive\\Desktop\\RLL\\DALLibrary\\DALLibrary\\ClinicUI\\Views\\Manager\\Updatefrontofficer.cshtml",
+              "RelativeToolTip": "ClinicUI\\Views\\Manager\\Updatefrontofficer.cshtml",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAswBwAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-09T07:39:31.264Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 80,
+              "Title": "UpdateDoctors.cshtml",
+              "DocumentMoniker": "C:\\Users\\gasag\\OneDrive\\Desktop\\RLL\\DALLibrary\\DALLibrary\\ClinicUI\\Views\\Manager\\UpdateDoctors.cshtml",
+              "RelativeDocumentMoniker": "ClinicUI\\Views\\Manager\\UpdateDoctors.cshtml",
+              "ToolTip": "C:\\Users\\gasag\\OneDrive\\Desktop\\RLL\\DALLibrary\\DALLibrary\\ClinicUI\\Views\\Manager\\UpdateDoctors.cshtml",
+              "RelativeToolTip": "ClinicUI\\Views\\Manager\\UpdateDoctors.cshtml",
+              "ViewState": "AQIAAEIAAAAAAAAAAAAAAF4AAABIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-09T07:39:31.274Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 81,
+              "Title": "DisplayPharmasicts.cshtml",
+              "DocumentMoniker": "C:\\Users\\gasag\\OneDrive\\Desktop\\RLL\\DALLibrary\\DALLibrary\\ClinicUI\\Views\\Manager\\DisplayPharmasicts.cshtml",
+              "RelativeDocumentMoniker": "ClinicUI\\Views\\Manager\\DisplayPharmasicts.cshtml",
+              "ToolTip": "C:\\Users\\gasag\\OneDrive\\Desktop\\RLL\\DALLibrary\\DALLibrary\\ClinicUI\\Views\\Manager\\DisplayPharmasicts.cshtml",
+              "RelativeToolTip": "ClinicUI\\Views\\Manager\\DisplayPharmasicts.cshtml",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAACEAAABCAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-09T07:39:31.286Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 82,
+              "Title": "DisplayDoctors.cshtml",
+              "DocumentMoniker": "C:\\Users\\gasag\\OneDrive\\Desktop\\RLL\\DALLibrary\\DALLibrary\\ClinicUI\\Views\\Manager\\DisplayDoctors.cshtml",
+              "RelativeDocumentMoniker": "ClinicUI\\Views\\Manager\\DisplayDoctors.cshtml",
+              "ToolTip": "C:\\Users\\gasag\\OneDrive\\Desktop\\RLL\\DALLibrary\\DALLibrary\\ClinicUI\\Views\\Manager\\DisplayDoctors.cshtml",
+              "RelativeToolTip": "ClinicUI\\Views\\Manager\\DisplayDoctors.cshtml",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAACMAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-09T07:39:31.294Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 83,
+              "Title": "DeletePharmacist.cshtml",
+              "DocumentMoniker": "C:\\Users\\gasag\\OneDrive\\Desktop\\RLL\\DALLibrary\\DALLibrary\\ClinicUI\\Views\\Manager\\DeletePharmacist.cshtml",
+              "RelativeDocumentMoniker": "ClinicUI\\Views\\Manager\\DeletePharmacist.cshtml",
+              "ToolTip": "C:\\Users\\gasag\\OneDrive\\Desktop\\RLL\\DALLibrary\\DALLibrary\\ClinicUI\\Views\\Manager\\DeletePharmacist.cshtml",
+              "RelativeToolTip": "ClinicUI\\Views\\Manager\\DeletePharmacist.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB4AAABvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-09T07:39:31.303Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 84,
+              "Title": "DeletePatient.cshtml",
+              "DocumentMoniker": "C:\\Users\\gasag\\OneDrive\\Desktop\\RLL\\DALLibrary\\DALLibrary\\ClinicUI\\Views\\Manager\\DeletePatient.cshtml",
+              "RelativeDocumentMoniker": "ClinicUI\\Views\\Manager\\DeletePatient.cshtml",
+              "ToolTip": "C:\\Users\\gasag\\OneDrive\\Desktop\\RLL\\DALLibrary\\DALLibrary\\ClinicUI\\Views\\Manager\\DeletePatient.cshtml",
+              "RelativeToolTip": "ClinicUI\\Views\\Manager\\DeletePatient.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAUwCEAAABtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-09T07:39:31.314Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 85,
+              "Title": "DeleteDoctor.cshtml",
+              "DocumentMoniker": "C:\\Users\\gasag\\OneDrive\\Desktop\\RLL\\DALLibrary\\DALLibrary\\ClinicUI\\Views\\Manager\\DeleteDoctor.cshtml",
+              "RelativeDocumentMoniker": "ClinicUI\\Views\\Manager\\DeleteDoctor.cshtml",
+              "ToolTip": "C:\\Users\\gasag\\OneDrive\\Desktop\\RLL\\DALLibrary\\DALLibrary\\ClinicUI\\Views\\Manager\\DeleteDoctor.cshtml",
+              "RelativeToolTip": "ClinicUI\\Views\\Manager\\DeleteDoctor.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-09T07:39:31.324Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 86,
+              "Title": "DeleteDoctors.cshtml",
+              "DocumentMoniker": "C:\\Users\\gasag\\OneDrive\\Desktop\\RLL\\DALLibrary\\DALLibrary\\ClinicUI\\Views\\Manager\\DeleteDoctors.cshtml",
+              "RelativeDocumentMoniker": "ClinicUI\\Views\\Manager\\DeleteDoctors.cshtml",
+              "ToolTip": "C:\\Users\\gasag\\OneDrive\\Desktop\\RLL\\DALLibrary\\DALLibrary\\ClinicUI\\Views\\Manager\\DeleteDoctors.cshtml",
+              "RelativeToolTip": "ClinicUI\\Views\\Manager\\DeleteDoctors.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACAAAABsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-09T07:39:31.336Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 87,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\gasag\\OneDrive\\Desktop\\RLL\\DALLibrary\\DALLibrary\\ClinicUI\\Views\\Pharmacist\\Index.cshtml",
+              "RelativeDocumentMoniker": "ClinicUI\\Views\\Pharmacist\\Index.cshtml",
+              "ToolTip": "C:\\Users\\gasag\\OneDrive\\Desktop\\RLL\\DALLibrary\\DALLibrary\\ClinicUI\\Views\\Pharmacist\\Index.cshtml",
+              "RelativeToolTip": "ClinicUI\\Views\\Pharmacist\\Index.cshtml",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAACUAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-09T07:39:31.345Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 88,
+              "Title": "UpdateOfficerInfo.cshtml",
+              "DocumentMoniker": "C:\\Users\\gasag\\OneDrive\\Desktop\\RLL\\DALLibrary\\DALLibrary\\ClinicUI\\Views\\FrontOfficer\\UpdateOfficerInfo.cshtml",
+              "RelativeDocumentMoniker": "ClinicUI\\Views\\FrontOfficer\\UpdateOfficerInfo.cshtml",
+              "ToolTip": "C:\\Users\\gasag\\OneDrive\\Desktop\\RLL\\DALLibrary\\DALLibrary\\ClinicUI\\Views\\FrontOfficer\\UpdateOfficerInfo.cshtml",
+              "RelativeToolTip": "ClinicUI\\Views\\FrontOfficer\\UpdateOfficerInfo.cshtml",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAACAAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-09T07:39:31.358Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 89,
+              "Title": "_Layout_Front_Officer.cshtml",
+              "DocumentMoniker": "C:\\Users\\gasag\\OneDrive\\Desktop\\RLL\\DALLibrary\\DALLibrary\\ClinicUI\\Views\\Shared\\_Layout_Front_Officer.cshtml",
+              "RelativeDocumentMoniker": "ClinicUI\\Views\\Shared\\_Layout_Front_Officer.cshtml",
+              "ToolTip": "C:\\Users\\gasag\\OneDrive\\Desktop\\RLL\\DALLibrary\\DALLibrary\\ClinicUI\\Views\\Shared\\_Layout_Front_Officer.cshtml",
+              "RelativeToolTip": "ClinicUI\\Views\\Shared\\_Layout_Front_Officer.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABwAAABWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-09T07:39:31.367Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 90,
+              "Title": "ResetAdmin.cshtml",
+              "DocumentMoniker": "C:\\Users\\gasag\\OneDrive\\Desktop\\RLL\\DALLibrary\\DALLibrary\\ClinicUI\\Views\\ResetPassword\\ResetAdmin.cshtml",
+              "RelativeDocumentMoniker": "ClinicUI\\Views\\ResetPassword\\ResetAdmin.cshtml",
+              "ToolTip": "C:\\Users\\gasag\\OneDrive\\Desktop\\RLL\\DALLibrary\\DALLibrary\\ClinicUI\\Views\\ResetPassword\\ResetAdmin.cshtml",
+              "RelativeToolTip": "ClinicUI\\Views\\ResetPassword\\ResetAdmin.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB8AAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-09T07:39:31.375Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 91,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\gasag\\OneDrive\\Desktop\\RLL\\DALLibrary\\DALLibrary\\ClinicUI\\Views\\Pharmacist\\Create.cshtml",
+              "RelativeDocumentMoniker": "ClinicUI\\Views\\Pharmacist\\Create.cshtml",
+              "ToolTip": "C:\\Users\\gasag\\OneDrive\\Desktop\\RLL\\DALLibrary\\DALLibrary\\ClinicUI\\Views\\Pharmacist\\Create.cshtml",
+              "RelativeToolTip": "ClinicUI\\Views\\Pharmacist\\Create.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAABRAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-09T07:39:31.383Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 92,
+              "Title": "ResetPhar.cshtml",
+              "DocumentMoniker": "C:\\Users\\gasag\\OneDrive\\Desktop\\RLL\\DALLibrary\\DALLibrary\\ClinicUI\\Views\\ResetPassword\\ResetPhar.cshtml",
+              "RelativeDocumentMoniker": "ClinicUI\\Views\\ResetPassword\\ResetPhar.cshtml",
+              "ToolTip": "C:\\Users\\gasag\\OneDrive\\Desktop\\RLL\\DALLibrary\\DALLibrary\\ClinicUI\\Views\\ResetPassword\\ResetPhar.cshtml",
+              "RelativeToolTip": "ClinicUI\\Views\\ResetPassword\\ResetPhar.cshtml",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABwAAABeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-09T07:39:31.392Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 93,
+              "Title": "ResetPatient.cshtml",
+              "DocumentMoniker": "C:\\Users\\gasag\\OneDrive\\Desktop\\RLL\\DALLibrary\\DALLibrary\\ClinicUI\\Views\\ResetPassword\\ResetPatient.cshtml",
+              "RelativeDocumentMoniker": "ClinicUI\\Views\\ResetPassword\\ResetPatient.cshtml",
+              "ToolTip": "C:\\Users\\gasag\\OneDrive\\Desktop\\RLL\\DALLibrary\\DALLibrary\\ClinicUI\\Views\\ResetPassword\\ResetPatient.cshtml",
+              "RelativeToolTip": "ClinicUI\\Views\\ResetPassword\\ResetPatient.cshtml",
+              "ViewState": "AQIAABsAAAAAAAAAAAAAACEAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-09T07:39:31.4Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 94,
+              "Title": "ResetFO.cshtml",
+              "DocumentMoniker": "C:\\Users\\gasag\\OneDrive\\Desktop\\RLL\\DALLibrary\\DALLibrary\\ClinicUI\\Views\\ResetPassword\\ResetFO.cshtml",
+              "RelativeDocumentMoniker": "ClinicUI\\Views\\ResetPassword\\ResetFO.cshtml",
+              "ToolTip": "C:\\Users\\gasag\\OneDrive\\Desktop\\RLL\\DALLibrary\\DALLibrary\\ClinicUI\\Views\\ResetPassword\\ResetFO.cshtml",
+              "RelativeToolTip": "ClinicUI\\Views\\ResetPassword\\ResetFO.cshtml",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAACAAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-09T07:39:31.41Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 95,
+              "Title": "ResetDoc.cshtml",
+              "DocumentMoniker": "C:\\Users\\gasag\\OneDrive\\Desktop\\RLL\\DALLibrary\\DALLibrary\\ClinicUI\\Views\\ResetPassword\\ResetDoc.cshtml",
+              "RelativeDocumentMoniker": "ClinicUI\\Views\\ResetPassword\\ResetDoc.cshtml",
+              "ToolTip": "C:\\Users\\gasag\\OneDrive\\Desktop\\RLL\\DALLibrary\\DALLibrary\\ClinicUI\\Views\\ResetPassword\\ResetDoc.cshtml",
+              "RelativeToolTip": "ClinicUI\\Views\\ResetPassword\\ResetDoc.cshtml",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAACAAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-09T07:39:31.422Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "Medicine.cs",
+              "DocumentMoniker": "C:\\Users\\gasag\\OneDrive\\Desktop\\RLL\\DALLibrary\\DALLibrary\\DALLibrary\\Domain_Classes\\Medicine.cs",
+              "RelativeDocumentMoniker": "DALLibrary\\Domain_Classes\\Medicine.cs",
+              "ToolTip": "C:\\Users\\gasag\\OneDrive\\Desktop\\RLL\\DALLibrary\\DALLibrary\\DALLibrary\\Domain_Classes\\Medicine.cs",
+              "RelativeToolTip": "DALLibrary\\Domain_Classes\\Medicine.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABgAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-02T19:00:12.759Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "Manager.cs",
+              "DocumentMoniker": "C:\\Users\\gasag\\OneDrive\\Desktop\\RLL\\DALLibrary\\DALLibrary\\DALLibrary\\Domain_Classes\\Manager.cs",
+              "RelativeDocumentMoniker": "DALLibrary\\Domain_Classes\\Manager.cs",
+              "ToolTip": "C:\\Users\\gasag\\OneDrive\\Desktop\\RLL\\DALLibrary\\DALLibrary\\DALLibrary\\Domain_Classes\\Manager.cs",
+              "RelativeToolTip": "DALLibrary\\Domain_Classes\\Manager.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-02T19:00:12.761Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "PharmacistCRUD.cs",
+              "DocumentMoniker": "C:\\Users\\gasag\\OneDrive\\Desktop\\RLL\\DALLibrary\\DALLibrary\\DALLibrary\\CRUD\\PharmacistCRUD.cs",
+              "RelativeDocumentMoniker": "DALLibrary\\CRUD\\PharmacistCRUD.cs",
+              "ToolTip": "C:\\Users\\gasag\\OneDrive\\Desktop\\RLL\\DALLibrary\\DALLibrary\\DALLibrary\\CRUD\\PharmacistCRUD.cs",
+              "RelativeToolTip": "DALLibrary\\CRUD\\PharmacistCRUD.cs",
+              "ViewState": "AQIAACAAAAAAAAAAAAAgwC0AAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-02T19:00:12.768Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 96,
+              "Title": "_Layout_Pharmacist.cshtml",
+              "DocumentMoniker": "C:\\Users\\gasag\\OneDrive\\Desktop\\RLL\\DALLibrary\\DALLibrary\\ClinicUI\\Views\\Shared\\_Layout_Pharmacist.cshtml",
+              "RelativeDocumentMoniker": "ClinicUI\\Views\\Shared\\_Layout_Pharmacist.cshtml",
+              "ToolTip": "C:\\Users\\gasag\\OneDrive\\Desktop\\RLL\\DALLibrary\\DALLibrary\\ClinicUI\\Views\\Shared\\_Layout_Pharmacist.cshtml",
+              "RelativeToolTip": "ClinicUI\\Views\\Shared\\_Layout_Pharmacist.cshtml",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAACMAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-09T07:39:31.439Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "MessageCRUD.cs",
+              "DocumentMoniker": "C:\\Users\\gasag\\OneDrive\\Desktop\\RLL\\DALLibrary\\DALLibrary\\DALLibrary\\CRUD\\MessageCRUD.cs",
+              "RelativeDocumentMoniker": "DALLibrary\\CRUD\\MessageCRUD.cs",
+              "ToolTip": "C:\\Users\\gasag\\OneDrive\\Desktop\\RLL\\DALLibrary\\DALLibrary\\DALLibrary\\CRUD\\MessageCRUD.cs",
+              "RelativeToolTip": "DALLibrary\\CRUD\\MessageCRUD.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAAYwBwAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-02T19:00:12.773Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "MedicineCRUD.cs",
+              "DocumentMoniker": "C:\\Users\\gasag\\OneDrive\\Desktop\\RLL\\DALLibrary\\DALLibrary\\DALLibrary\\CRUD\\MedicineCRUD.cs",
+              "RelativeDocumentMoniker": "DALLibrary\\CRUD\\MedicineCRUD.cs",
+              "ToolTip": "C:\\Users\\gasag\\OneDrive\\Desktop\\RLL\\DALLibrary\\DALLibrary\\DALLibrary\\CRUD\\MedicineCRUD.cs",
+              "RelativeToolTip": "DALLibrary\\CRUD\\MedicineCRUD.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAAYwEUAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-02T19:00:12.775Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 97,
+              "Title": "DoctorLogin.cshtml",
+              "DocumentMoniker": "C:\\Users\\gasag\\OneDrive\\Desktop\\RLL\\DALLibrary\\DALLibrary\\ClinicUI\\Views\\Login\\DoctorLogin.cshtml",
+              "RelativeDocumentMoniker": "ClinicUI\\Views\\Login\\DoctorLogin.cshtml",
+              "ToolTip": "C:\\Users\\gasag\\OneDrive\\Desktop\\RLL\\DALLibrary\\DALLibrary\\ClinicUI\\Views\\Login\\DoctorLogin.cshtml",
+              "RelativeToolTip": "ClinicUI\\Views\\Login\\DoctorLogin.cshtml",
+              "ViewState": "AQIAACEAAAAAAAAAAAAAADUAAABXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-09T07:39:31.454Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 98,
+              "Title": "PharmacistsLogin.cshtml",
+              "DocumentMoniker": "C:\\Users\\gasag\\OneDrive\\Desktop\\RLL\\DALLibrary\\DALLibrary\\ClinicUI\\Views\\Login\\PharmacistsLogin.cshtml",
+              "RelativeDocumentMoniker": "ClinicUI\\Views\\Login\\PharmacistsLogin.cshtml",
+              "ToolTip": "C:\\Users\\gasag\\OneDrive\\Desktop\\RLL\\DALLibrary\\DALLibrary\\ClinicUI\\Views\\Login\\PharmacistsLogin.cshtml",
+              "RelativeToolTip": "ClinicUI\\Views\\Login\\PharmacistsLogin.cshtml",
+              "ViewState": "AQIAABkAAAAAAAAAAAAAADcAAABYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-09T07:39:31.466Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 99,
+              "Title": "FrontOfficeLogin.cshtml",
+              "DocumentMoniker": "C:\\Users\\gasag\\OneDrive\\Desktop\\RLL\\DALLibrary\\DALLibrary\\ClinicUI\\Views\\Login\\FrontOfficeLogin.cshtml",
+              "RelativeDocumentMoniker": "ClinicUI\\Views\\Login\\FrontOfficeLogin.cshtml",
+              "ToolTip": "C:\\Users\\gasag\\OneDrive\\Desktop\\RLL\\DALLibrary\\DALLibrary\\ClinicUI\\Views\\Login\\FrontOfficeLogin.cshtml",
+              "RelativeToolTip": "ClinicUI\\Views\\Login\\FrontOfficeLogin.cshtml",
+              "ViewState": "AQIAABgAAAAAAAAAAAAAADUAAABWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-09T07:39:31.479Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 100,
+              "Title": "ResetStyle.css",
+              "DocumentMoniker": "C:\\Users\\gasag\\OneDrive\\Desktop\\RLL\\DALLibrary\\DALLibrary\\ClinicUI\\Content\\ResetStyle.css",
+              "RelativeDocumentMoniker": "ClinicUI\\Content\\ResetStyle.css",
+              "ToolTip": "C:\\Users\\gasag\\OneDrive\\Desktop\\RLL\\DALLibrary\\DALLibrary\\ClinicUI\\Content\\ResetStyle.css",
+              "RelativeToolTip": "ClinicUI\\Content\\ResetStyle.css",
+              "ViewState": "AQIAABUAAAAAAAAAAAAiwDoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-08-09T07:39:31.492Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 101,
+              "Title": "AppointmentList.cshtml",
+              "DocumentMoniker": "C:\\Users\\gasag\\OneDrive\\Desktop\\RLL\\DALLibrary\\DALLibrary\\ClinicUI\\Views\\Doctor\\AppointmentList.cshtml",
+              "RelativeDocumentMoniker": "ClinicUI\\Views\\Doctor\\AppointmentList.cshtml",
+              "ToolTip": "C:\\Users\\gasag\\OneDrive\\Desktop\\RLL\\DALLibrary\\DALLibrary\\ClinicUI\\Views\\Doctor\\AppointmentList.cshtml",
+              "RelativeToolTip": "ClinicUI\\Views\\Doctor\\AppointmentList.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-09T07:39:31.505Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 102,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\gasag\\OneDrive\\Desktop\\RLL\\DALLibrary\\DALLibrary\\ClinicUI\\Views\\Pharmacist\\Delete.cshtml",
+              "RelativeDocumentMoniker": "ClinicUI\\Views\\Pharmacist\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\gasag\\OneDrive\\Desktop\\RLL\\DALLibrary\\DALLibrary\\ClinicUI\\Views\\Pharmacist\\Delete.cshtml",
+              "RelativeToolTip": "ClinicUI\\Views\\Pharmacist\\Delete.cshtml",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAACMAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-09T07:39:31.518Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "Message.cs",
+              "DocumentMoniker": "C:\\Users\\gasag\\OneDrive\\Desktop\\RLL\\DALLibrary\\DALLibrary\\DALLibrary\\Domain_Classes\\Message.cs",
+              "RelativeDocumentMoniker": "DALLibrary\\Domain_Classes\\Message.cs",
+              "ToolTip": "C:\\Users\\gasag\\OneDrive\\Desktop\\RLL\\DALLibrary\\DALLibrary\\DALLibrary\\Domain_Classes\\Message.cs",
+              "RelativeToolTip": "DALLibrary\\Domain_Classes\\Message.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-02T19:00:12.813Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 103,
+              "Title": "_Layout_Manager.cshtml",
+              "DocumentMoniker": "C:\\Users\\gasag\\OneDrive\\Desktop\\RLL\\DALLibrary\\DALLibrary\\ClinicUI\\Views\\Shared\\_Layout_Manager.cshtml",
+              "RelativeDocumentMoniker": "ClinicUI\\Views\\Shared\\_Layout_Manager.cshtml",
+              "ToolTip": "C:\\Users\\gasag\\OneDrive\\Desktop\\RLL\\DALLibrary\\DALLibrary\\ClinicUI\\Views\\Shared\\_Layout_Manager.cshtml",
+              "RelativeToolTip": "ClinicUI\\Views\\Shared\\_Layout_Manager.cshtml",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAswBQAAAA+AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-09T07:39:31.541Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 104,
+              "Title": "_Layout_Doctor.cshtml",
+              "DocumentMoniker": "C:\\Users\\gasag\\OneDrive\\Desktop\\RLL\\DALLibrary\\DALLibrary\\ClinicUI\\Views\\Shared\\_Layout_Doctor.cshtml",
+              "RelativeDocumentMoniker": "ClinicUI\\Views\\Shared\\_Layout_Doctor.cshtml",
+              "ToolTip": "C:\\Users\\gasag\\OneDrive\\Desktop\\RLL\\DALLibrary\\DALLibrary\\ClinicUI\\Views\\Shared\\_Layout_Doctor.cshtml",
+              "RelativeToolTip": "ClinicUI\\Views\\Shared\\_Layout_Doctor.cshtml",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAswB0AAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-09T07:39:31.554Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 105,
+              "Title": "_Layout_Manager_pat.cshtml",
+              "DocumentMoniker": "C:\\Users\\gasag\\OneDrive\\Desktop\\RLL\\DALLibrary\\DALLibrary\\ClinicUI\\Views\\Shared\\_Layout_Manager_pat.cshtml",
+              "RelativeDocumentMoniker": "ClinicUI\\Views\\Shared\\_Layout_Manager_pat.cshtml",
+              "ToolTip": "C:\\Users\\gasag\\OneDrive\\Desktop\\RLL\\DALLibrary\\DALLibrary\\ClinicUI\\Views\\Shared\\_Layout_Manager_pat.cshtml",
+              "RelativeToolTip": "ClinicUI\\Views\\Shared\\_Layout_Manager_pat.cshtml",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAABgAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-09T07:39:31.568Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 106,
+              "Title": "adminStyle.css",
+              "DocumentMoniker": "C:\\Users\\gasag\\OneDrive\\Desktop\\RLL\\DALLibrary\\DALLibrary\\ClinicUI\\Content\\adminStyle.css",
+              "RelativeDocumentMoniker": "ClinicUI\\Content\\adminStyle.css",
+              "ToolTip": "C:\\Users\\gasag\\OneDrive\\Desktop\\RLL\\DALLibrary\\DALLibrary\\ClinicUI\\Content\\adminStyle.css",
+              "RelativeToolTip": "ClinicUI\\Content\\adminStyle.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAH4AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-08-09T07:39:31.58Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 107,
+              "Title": "Deletefrontofficer.cshtml",
+              "DocumentMoniker": "C:\\Users\\gasag\\OneDrive\\Desktop\\RLL\\DALLibrary\\DALLibrary\\ClinicUI\\Views\\Manager\\Deletefrontofficer.cshtml",
+              "RelativeDocumentMoniker": "ClinicUI\\Views\\Manager\\Deletefrontofficer.cshtml",
+              "ToolTip": "C:\\Users\\gasag\\OneDrive\\Desktop\\RLL\\DALLibrary\\DALLibrary\\ClinicUI\\Views\\Manager\\Deletefrontofficer.cshtml",
+              "RelativeToolTip": "ClinicUI\\Views\\Manager\\Deletefrontofficer.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB8AAABxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-09T07:39:31.594Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 108,
+              "Title": "Site1.css",
+              "DocumentMoniker": "C:\\Users\\gasag\\OneDrive\\Desktop\\RLL\\DALLibrary\\DALLibrary\\ClinicUI\\Content\\Site1.css",
+              "RelativeDocumentMoniker": "ClinicUI\\Content\\Site1.css",
+              "ToolTip": "C:\\Users\\gasag\\OneDrive\\Desktop\\RLL\\DALLibrary\\DALLibrary\\ClinicUI\\Content\\Site1.css",
+              "RelativeToolTip": "ClinicUI\\Content\\Site1.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-08-09T07:39:31.608Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 109,
+              "Title": "Layout.css",
+              "DocumentMoniker": "C:\\Users\\gasag\\OneDrive\\Desktop\\RLL\\DALLibrary\\DALLibrary\\ClinicUI\\Content\\Layout.css",
+              "RelativeDocumentMoniker": "ClinicUI\\Content\\Layout.css",
+              "ToolTip": "C:\\Users\\gasag\\OneDrive\\Desktop\\RLL\\DALLibrary\\DALLibrary\\ClinicUI\\Content\\Layout.css",
+              "RelativeToolTip": "ClinicUI\\Content\\Layout.css",
+              "ViewState": "AQIAADIAAAAAAAAAAADwv0MAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-08-09T07:39:31.706Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 110,
+              "Title": "_Layout_Manager_Front_Officer.cshtml",
+              "DocumentMoniker": "C:\\Users\\gasag\\OneDrive\\Desktop\\RLL\\DALLibrary\\DALLibrary\\ClinicUI\\Views\\Shared\\_Layout_Manager_Front_Officer.cshtml",
+              "RelativeDocumentMoniker": "ClinicUI\\Views\\Shared\\_Layout_Manager_Front_Officer.cshtml",
+              "ToolTip": "C:\\Users\\gasag\\OneDrive\\Desktop\\RLL\\DALLibrary\\DALLibrary\\ClinicUI\\Views\\Shared\\_Layout_Manager_Front_Officer.cshtml",
+              "RelativeToolTip": "ClinicUI\\Views\\Shared\\_Layout_Manager_Front_Officer.cshtml",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAswBYAAABbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-09T07:39:31.723Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 111,
+              "Title": "_Layout_Manager_Pharmacist.cshtml",
+              "DocumentMoniker": "C:\\Users\\gasag\\OneDrive\\Desktop\\RLL\\DALLibrary\\DALLibrary\\ClinicUI\\Views\\Shared\\_Layout_Manager_Pharmacist.cshtml",
+              "RelativeDocumentMoniker": "ClinicUI\\Views\\Shared\\_Layout_Manager_Pharmacist.cshtml",
+              "ToolTip": "C:\\Users\\gasag\\OneDrive\\Desktop\\RLL\\DALLibrary\\DALLibrary\\ClinicUI\\Views\\Shared\\_Layout_Manager_Pharmacist.cshtml",
+              "RelativeToolTip": "ClinicUI\\Views\\Shared\\_Layout_Manager_Pharmacist.cshtml",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAswBkAAABJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-09T07:39:31.737Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 112,
+              "Title": "_Layout_Manager_Doc.cshtml",
+              "DocumentMoniker": "C:\\Users\\gasag\\OneDrive\\Desktop\\RLL\\DALLibrary\\DALLibrary\\ClinicUI\\Views\\Shared\\_Layout_Manager_Doc.cshtml",
+              "RelativeDocumentMoniker": "ClinicUI\\Views\\Shared\\_Layout_Manager_Doc.cshtml",
+              "ToolTip": "C:\\Users\\gasag\\OneDrive\\Desktop\\RLL\\DALLibrary\\DALLibrary\\ClinicUI\\Views\\Shared\\_Layout_Manager_Doc.cshtml",
+              "RelativeToolTip": "ClinicUI\\Views\\Shared\\_Layout_Manager_Doc.cshtml",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAswBYAAABPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-09T07:39:31.751Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 113,
+              "Title": "MessageStyle.css",
+              "DocumentMoniker": "C:\\Users\\gasag\\OneDrive\\Desktop\\RLL\\DALLibrary\\DALLibrary\\ClinicUI\\Content\\MessageStyle.css",
+              "RelativeDocumentMoniker": "ClinicUI\\Content\\MessageStyle.css",
+              "ToolTip": "C:\\Users\\gasag\\OneDrive\\Desktop\\RLL\\DALLibrary\\DALLibrary\\ClinicUI\\Content\\MessageStyle.css",
+              "RelativeToolTip": "ClinicUI\\Content\\MessageStyle.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-08-09T07:39:31.762Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 114,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\gasag\\OneDrive\\Desktop\\RLL\\DALLibrary\\DALLibrary\\ClinicUI\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "ClinicUI\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\gasag\\OneDrive\\Desktop\\RLL\\DALLibrary\\DALLibrary\\ClinicUI\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "ClinicUI\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-09T07:39:31.774Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "packages.config",
+              "DocumentMoniker": "C:\\Users\\gasag\\OneDrive\\Desktop\\RLL\\DALLibrary\\DALLibrary\\DALLibrary\\packages.config",
+              "RelativeDocumentMoniker": "DALLibrary\\packages.config",
+              "ToolTip": "C:\\Users\\gasag\\OneDrive\\Desktop\\RLL\\DALLibrary\\DALLibrary\\DALLibrary\\packages.config",
+              "RelativeToolTip": "DALLibrary\\packages.config",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-02-02T19:00:12.851Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "RouteConfig.cs",
+              "DocumentMoniker": "C:\\Users\\gasag\\OneDrive\\Desktop\\RLL\\DALLibrary\\DALLibrary\\ClinicApi\\App_Start\\RouteConfig.cs",
+              "RelativeDocumentMoniker": "ClinicApi\\App_Start\\RouteConfig.cs",
+              "ToolTip": "C:\\Users\\gasag\\OneDrive\\Desktop\\RLL\\DALLibrary\\DALLibrary\\ClinicApi\\App_Start\\RouteConfig.cs",
+              "RelativeToolTip": "ClinicApi\\App_Start\\RouteConfig.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-02T19:00:12.859Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "Pharmacist.cs",
+              "DocumentMoniker": "C:\\Users\\gasag\\OneDrive\\Desktop\\RLL\\DALLibrary\\DALLibrary\\DALLibrary\\Domain_Classes\\Pharmacist.cs",
+              "RelativeDocumentMoniker": "DALLibrary\\Domain_Classes\\Pharmacist.cs",
+              "ToolTip": "C:\\Users\\gasag\\OneDrive\\Desktop\\RLL\\DALLibrary\\DALLibrary\\DALLibrary\\Domain_Classes\\Pharmacist.cs",
+              "RelativeToolTip": "DALLibrary\\Domain_Classes\\Pharmacist.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAAAAsAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-02T19:00:12.867Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
